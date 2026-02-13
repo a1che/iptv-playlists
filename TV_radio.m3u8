@@ -1,0 +1,3591 @@
+#EXTM3U8 url-tvg="https://raw.githubusercontent.com/Lorax121/everyday_epg_update/main/data/EPG_LITE.xml.gz"
+
+#EXTINF:0,Первый канал
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+
+#EXTINF:0,Первый канал +1
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+
+#EXTINF:0,Первый канал +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+
+#EXTINF:0,Первый канал +3 (Омск)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+
+#EXTINF:0,Первый канал +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+
+#EXTINF:0,Первый канал +5
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_IRKUTSK/variant.m3u8?version=2
+
+#EXTINF:0,Первый канал +6
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
+
+#EXTINF:0,Первый канал +7 (Владивосток)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8
+
+#EXTINF:0,Первый канал +8
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+
+#EXTINF:0,Первый канал +9
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+
+#EXTINF:0,Россия 1 -1
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+
+#EXTINF:0,Россия 1
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/1080p.m3u8
+
+#EXTINF:0,Россия 1 +1 (Приволжье)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+
+#EXTINF:0,Россия 1 +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+
+#EXTINF:0,Россия 1 +3 (Омск)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_OMSKOBL/variant.m3u8
+
+#EXTINF:0,Россия 1 +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
+
+#EXTINF:0,Россия 1 +5
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+
+#EXTINF:0,Россия 1 +6
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV_CHITA/variant.m3u8
+
+#EXTINF:0,Россия 1 +7 (Владивосток)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_RUS8_OTT/variant.m3u8
+
+#EXTINF:0,Россия 1 +8
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+
+#EXTINF:0,Россия 1 +9
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+
+#EXTINF:0,РОССИЯ Культура
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:0,РОССИЯ Культура +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+
+#EXTINF:0,РОССИЯ Культура +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#EXTINF:0,РОССИЯ Культура +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+
+#EXTINF:0,Россия 24
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+
+#EXTINF:0,Вести FM
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+
+#EXTINF:0,Матч!
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIA2/variant.m3u8
+
+#EXTINF:0,НТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:0,НТВ +1
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+
+#EXTINF:0,НТВ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+
+#EXTINF:0,НТВ +3 (Омск)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
+
+#EXTINF:0,НТВ +5
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_BURAT/variant.m3u8
+
+#EXTINF:0,НТВ +6
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_NTV_ZK/variant.m3u8
+
+#EXTINF:0,НТВ +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Рен ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:0,РЕН ТВ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+
+#EXTINF:0,Рен ТВ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+
+#EXTINF:0,РЕН ТВ +7 (Владивосток)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+
+#EXTINF:0,СТС
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:0,СТС +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+
+#EXTINF:0,СТС +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
+
+#EXTINF:0,СТС +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+
+#EXTINF:0,ТНТ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+
+#EXTINF:0,ТНТ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+
+#EXTINF:0,ТНТ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+
+#EXTINF:0,ТНТ +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+
+#EXTINF:0,Че!
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+
+#EXTINF:0,ЧЕ! +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+
+#EXTINF:0,ЧЕ! +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+
+#EXTINF:0,ЧЕ! +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+
+#EXTINF:0,СТС Love
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+#EXTINF:0,СТС Love +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+
+#EXTINF:0,СТС Love +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?version=2
+
+#EXTINF:0,СТС Love +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_STSLOVE/variant.m3u8
+
+#EXTINF:0,Пятница!
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+#EXTINF:0,Пятница +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+
+#EXTINF:0,Пятница +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+
+#EXTINF:0,Пятница +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+
+#EXTINF:0,ТВ-3
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:0,ТВ-3 +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+
+#EXTINF:0,ТВ-3 +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+
+#EXTINF:0,ТВ-3 +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+
+#EXTINF:0,ТНТ4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT4/variant.m3u8
+
+#EXTINF:0,ТНТ4 +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+
+#EXTINF:0,ТНТ4 +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+
+#EXTINF:0,ТНТ4 +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+
+#EXTINF:0,Суббота!
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:0,Суббота! +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+
+#EXTINF:0,Суббота! +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+
+#EXTINF:0,Суббота! +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+
+#EXTINF:0,Ю ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+
+#EXTINF:0,Ю ТВ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+
+#EXTINF:0,Ю ТВ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+
+#EXTINF:0,Ю ТВ +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+
+#EXTINF:0,ТВЦ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+#EXTINF:0,ТВЦ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+
+#EXTINF:0,ТВЦ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+
+#EXTINF:0,ТВЦ +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+
+#EXTINF:0,Пятый канал
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
+#EXTINF:0,Пятый канал +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+
+#EXTINF:0,Пятый канал +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+
+#EXTINF:0,Пятый канал +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+
+#EXTINF:0,Домашний
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:0,Домашний +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+
+#EXTINF:0,Домашний +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+
+#EXTINF:0,Домашний +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+
+#EXTINF:0,Звезда
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+
+#EXTINF:0,Звезда +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+
+#EXTINF:0,Звезда +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+
+#EXTINF:0,Звезда +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+
+#EXTINF:0,МИР
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_MIR/variant.m3u8
+
+#EXTINF:0,МИР +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+
+#EXTINF:0,МИР +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
+
+#EXTINF:0,МИР +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+#EXTINF:0,ОТР
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:0,ОТР +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+
+#EXTINF:0,Карусель
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:0,Карусель +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+
+#EXTINF:0,Карусель +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+
+#EXTINF:0,Карусель +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+
+#EXTINF:0,СОЛНЦЕ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:0,СОЛНЦЕ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+
+#EXTINF:0,СОЛНЦЕ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+
+#EXTINF:0,Солнце +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+
+#EXTINF:0,2x2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:0,2x2 +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+
+#EXTINF:0,2x2 +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+
+#EXTINF:0,2x2 +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+
+#EXTINF:0,Смотрим ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:0,Муз ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:0,Муз ТВ +2
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+
+#EXTINF:0,Муз ТВ +4
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+
+#EXTINF:0,Муз ТВ +7
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+
+#EXTINF:0,RU TV
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+
+#EXTINF:0,Новое радио FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-shift=+5, tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z6vvqbn2wy50m143gk20y/mcm102.1irkutsk.png?rlkey=vsnhojaw2yb9a6fu7kynj27p3&dl=0" tvg-id="mcm102.1irkutsk", 102.1_mCm tv (Иркутск)
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Viva HD
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://hlss.goodgame.ru/hls/180805.m3u8
+
+#EXTINF:0,MIXM TV
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://89.179.247.144/hls/mixm.m3u8
+
+#EXTINF:0,Страна FM HD
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+
+#EXTINF:0,Шансон ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:0,Каскад-24
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+
+#EXTINF:0,Арктик-TV
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
+
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+
+#EXTINF:0,Лен ТВ 24 HD
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_LENTVHD/variant.m3u8
+
+#EXTINF:0,ТРК Кириши
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KIRISHI/variant.m3u8
+
+#EXTINF:0,Выборг ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_VMK/variant.m3u8
+
+#EXTINF:0,Тосно
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://tosnotv.ru/hlsshare/video.m3u8
+
+#EXTINF:0,Сампо ТВ 360
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
+
+#EXTINF:0,Таврия ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
+
+#EXTINF:0,Новгородское областное телевидение
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+
+#EXTINF:0,Брянская Губерния
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+
+#EXTINF:0,Брянск 24
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/variant.m3u8
+
+#EXTINF:0,Тверской Проспект
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
+
+#EXTINF:0,Панорама ТВ FHD Тверь
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
+
+#EXTINF:0,Первый областной
+#EXTGRP:ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
+
+#EXTINF:0,Истоки
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+
+#EXTINF:0,Ника ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
+
+#EXTINF:0,Сейм
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
+
+#EXTINF:0,Такт
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
+
+#EXTINF:0,Мир Белогорья
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+
+#EXTINF:0,Белгород 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
+
+#EXTINF:0,Москва 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+
+#EXTINF:0,Доверие
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
+#EXTINF:0,ТЕО ТВ HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+
+#EXTINF:0,ОТВ Челябинск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
+
+#EXTINF:0,Щёлковское
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://stream0.tv41.ru/live.m3u8
+
+#EXTINF:0,Первый Тульский
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8
+
+#EXTINF:0,TV Губерния
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
+
+#EXTINF:0,41 ВТК АРГУС
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
+
+#EXTINF:0,Кубань 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
+#EXTINF:0,Краснодар
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
+
+#EXTINF:0,GLN 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_GELENDZHIK/variant.m3u8
+
+#EXTINF:0,Сочи 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+
+#EXTINF:0,Новороссийск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8
+
+#EXTINF:0,Липецкое время
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+
+#EXTINF:0,Вот ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+
+#EXTINF:0,Елец ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ELETS/variant.m3u8
+
+#EXTINF:0,Липецк 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
+
+#EXTINF:0,ТКР Рязань
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+
+#EXTINF:0,Русский Север
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:0,12 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+
+#EXTINF:0,Городской Телеканал-Ярославль
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
+
+#EXTINF:0,Первый Ярославский
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
+
+#EXTINF:0,Рыбинск-40
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+
+#EXTINF:0,Регион 29
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+
+#EXTINF:0,Котлас 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
+
+#EXTINF:0,СТВ 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
+
+#EXTINF:0,Вариант V
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
+
+#EXTINF:0,6 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
+
+#EXTINF:0,Губерния 33
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
+
+#EXTINF:0,Барс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+
+#EXTINF:0,ИОТ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+
+#EXTINF:0,Новый век
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
+
+#EXTINF:0,Русь
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+
+#EXTINF:0,АТВ Ставрополь
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+
+#EXTINF:0,СВОЁ тв
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_STV-PLUS/variant.m3u8
+
+#EXTINF:0,ДОН 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+
+#EXTINF:0,Батайск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_BATAYSK/variant.m3u8
+
+#EXTINF:0,Волгодонский Вестник
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_VOLGVEST/variant.m3u8
+
+#EXTINF:0,Новое телевидение Сарова
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
+
+#EXTINF:0,Дзержинск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+
+#EXTINF:0,Нижний Новгород 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
+
+#EXTINF:0,ННТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+
+#EXTINF:0,Волга
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+
+#EXTINF:0,Волга 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
+
+#EXTINF:0,Мордовия 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
+
+#EXTINF:0,Народное телевидение Мордовии
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+
+#EXTINF:0,Телевидение Саранска
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8
+
+#EXTINF:0,Саров 24 HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+
+#EXTINF:0,К16 Саров
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:0,Наш дом
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+
+#EXTINF:0,Экспресс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+
+#EXTINF:0,Девятка ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+
+#EXTINF:0,Первый городской
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
+
+#EXTINF:0,МЭТР
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+
+#EXTINF:0,10 канал Мордовия
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_10CHENAL/variant.m3u8
+
+#EXTINF:0,НТК Калмыкия
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+
+#EXTINF:0,Юрган
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
+
+#EXTINF:0,Чаваш ЕН
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+
+#EXTINF:0,Татарстан-24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
+
+#EXTINF:0,Эфир
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
+
+#EXTINF:0,МТВ Волгоград HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+
+#EXTINF:0,Канал 12
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+
+#EXTINF:0,Русский Север
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:0,Волгоград 1
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+
+#EXTINF:0,Волгоград 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+
+#EXTINF:0,Волжский_Плюс_FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://flussonic.powernet.com.ru:8080/volplus/tracks-v2a1/index.m3u8
+
+#EXTINF:0,Саратов 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
+
+#EXTINF:0,Удмуртия
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
+
+#EXTINF:0,Астрахань 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
+
+#EXTINF:0,Астрахань LIFE
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+
+#EXTINF:0,Репортер 73
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+
+#EXTINF:0,Ульяновская Правда
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
+
+#EXTINF:0,Губерния Самара
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
+
+#EXTINF:0,Самара 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
+
+#EXTINF:0,Самара ГИС FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+
+#EXTINF:0,КТВ-ЛУЧ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
+
+#EXTINF:0,Тольятти 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+
+#EXTINF:0,ОРТ Планета Оренбург
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+
+#EXTINF:0,Радио ХИТ ОРС HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+
+#EXTINF:0,ТРК Евразия Орск HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
+
+#EXTINF:0,СТВ-Бузулук
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
+
+#EXTINF:0,Башкирское спутниковое телевидение
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
+
+#EXTINF:0,БСТ HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+
+#EXTINF:0,Курай TV
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
+
+#EXTINF:0,Матур ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+
+#EXTINF:0,Сибай ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R02_SIBAYTV/variant.m3u8
+
+#EXTINF:0,NEXT TV
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+
+#EXTINF:0,Арис 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s45177.cdn.ngenix.net/hls/CH_R02_ARIS/variant.m3u8
+
+#EXTINF:0,VETTA 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
+
+#EXTINF:0,Рифей
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+
+#EXTINF:0,ЛТК
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LTK/variant.m3u8
+
+#EXTINF:0,Своё ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
+
+#EXTINF:0,Соль ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SOLTV/variant.m3u8
+
+#EXTINF:0,Крик ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+
+#EXTINF:0,МИГ ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+
+#EXTINF:0,Областное телевидение
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+
+#EXTINF:0,РИМ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
+
+#EXTINF:0,Телевидение Богдановича
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
+
+#EXTINF:0,4 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
+
+#EXTINF:0,Вектор
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
+
+#EXTINF:0,ОТВ - Инком ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
+
+#EXTINF:0,НТС
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
+
+#EXTINF:0,Телекон 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKON24_URAL_EKT/variant.m3u8
+
+#EXTINF:0,Первоуральск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PERVOURALSKTV/variant.m3u8
+
+#EXTINF:0,ТVОЯ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
+
+#EXTINF:0,Тюменское время
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+
+#EXTINF:0,Тобольское время
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+
+#EXTINF:0,Эхо 24 ТВ Новоуральск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+
+#EXTINF:0,31 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+
+#EXTINF:0,Ural 1
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
+
+#EXTINF:0,БСТ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+
+#EXTINF:0,Восточный экспресс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VOSTEXPRESS/variant.m3u8
+
+#EXTINF:0,КТРК
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_KTRK/variant.m3u8
+
+#EXTINF:0,ТВ-ИН
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+
+#EXTINF:0,Вектор 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
+
+#EXTINF:0,Вестник Надыма
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
+
+#EXTINF:0,Импульс Севера
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
+
+#EXTINF:0,Луч Пуровск HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LUTCH/variant.m3u8
+
+#EXTINF:0,МИГ ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+
+#EXTINF:0,Муравленко 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
+
+#EXTINF:0,Ямал 1
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+
+#EXTINF:0,Ямал-Регион
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+
+#EXTINF:0,Область 45
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+
+#EXTINF:0,Инфо 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
+
+#EXTINF:0,7 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R02_OTT_TNR7/variant.m3u8
+
+#EXTINF:0,Сургут 86 FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://sitv.ru/hls/s861024.m3u8
+
+#EXTINF:0,Сургут 1 FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+
+#EXTINF:0,Сургут 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://video1.in-news.ru/c24/index.m3u8
+
+#EXTINF:0,Ugra Travel
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
+
+#EXTINF:0,Наши города
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
+
+#EXTINF:0,Второй канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+
+#EXTINF:0,Мегаполис
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MEGAPOLIS/variant.m3u8
+
+#EXTINF:0,Самотлор
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
+
+#EXTINF:0,ТРК Юганск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
+
+#EXTINF:0,ТНР
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
+
+#EXTINF:0,Югра
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
+
+#EXTINF:0,Север
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
+
+#EXTINF:0,12 Канал (Омск)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+
+#EXTINF:0,Первый городской (Омск)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_1GORODSKOY/variant.m3u8
+
+#EXTINF:0,Омск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
+
+#EXTINF:0,НСК-49
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+
+#EXTINF:0,ОТС
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+
+#EXTINF:0,Сибирь 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_SIBIR24_NSK/variant.m3u8
+
+#EXTINF:0,Известия - ОТС Бердск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS_BERDSK_NSK/variant.m3u8
+
+#EXTINF:0,10 канал Мордовия
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8?version=2
+
+#EXTINF:0,Катунь 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+
+#EXTINF:0,Бийское ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_BIYSKTV/variant.m3u8
+
+#EXTINF:0,ТОЛК
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
+
+#EXTINF:0,Тува 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
+
+#EXTINF:0,РТС (Абакан-Орион)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+
+#EXTINF:0,Абакан 24 (Абакан-Орион)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_ABAKAN24_ABKN/variant.m3u8
+
+#EXTINF:0,ТВ 7 Абакан
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+
+#EXTINF:0,10 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
+
+#EXTINF:0,Анжерское ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ANGERSKTV/variant.m3u8
+
+#EXTINF:0,ТМ Квант
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KVANT/variant.m3u8
+
+#EXTINF:0,Кузбасс 1 HD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+
+#EXTINF:0,Про жизнь
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
+
+#EXTINF:0,Продвижение
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_PPRODVIJENIE_KEMR/variant.m3u8
+
+#EXTINF:0,360 - Киселёвск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
+
+#EXTINF:0,Томское время
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+
+#EXTINF:0,Известия - Рубцовск ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RUBCOSKTV/variant.m3u8
+
+#EXTINF:0,7 Канал (Красноярск-Орион)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
+
+#EXTINF:0,Ачинское телевидение
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ACHINSKOETV/variant.m3u8
+
+#EXTINF:0,Енисей (Орион)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+
+#EXTINF:0,Прима ТВ FHD
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+
+#EXTINF:0,ТВК (Орион)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
+
+#EXTINF:0,Афонтово
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8
+
+#EXTINF:0,Пирамида-ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_PYRAMID_NAZAR/variant.m3u8
+
+#EXTINF:0,НТК
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
+
+#EXTINF:0,Аист (Иркутск-DreamNet)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
+
+#EXTINF:0,11 канал. Экспресс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_USOLYE/variant.m3u8
+
+#EXTINF:0,Актис
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_AKTIS/variant.m3u8
+
+#EXTINF:0,НТС FHD Иркутск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+
+#EXTINF:0,ТСТ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
+
+#EXTINF:0,360°
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_BRATSK360/variant.m3u8
+
+#EXTINF:0,БСТ 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
+
+#EXTINF:0,Тивиком ТВ FHD Улан Удэ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+
+#EXTINF:0,Ариг Ус
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+
+#EXTINF:0,АТВ-Медиа
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
+
+#EXTINF:0,Буряад ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
+
+#EXTINF:0,РТК Забайкалье
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/variant.m3u8
+
+#EXTINF:0,Алмазный край
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
+
+#EXTINF:0,НВК Саха
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+
+#EXTINF:0,Якутия 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+
+#EXTINF:0,АСТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
+
+#EXTINF:0,ОТВ-Сахалин
+#EXTVLCOPT:network-caching=1000
+#EXTGRP:ТВ
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
+
+#EXTINF:0,Амурское областное телевидение
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
+
+#EXTINF:0,Город 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s84942.cdn.ngenix.net/hls/CH_R28_GOROD24/variant.m3u8
+
+#EXTINF:0,Тында ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
+
+#EXTINF:0,6ТВ
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+
+#EXTINF:0,Губерния Хабаровск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+
+#EXTINF:0,Телеканал Хабаровск
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
+
+#EXTINF:0,Redcom TV
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://camcity.redcom.ru/Redcams/index.m3u8
+
+#EXTINF:0,Восток 24
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
+#EXTINF:0,ОТВ (ЗТ Владивосток)
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
+
+#EXTINF:0,Телемикс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
+
+#EXTINF:0,8 канал
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+
+#EXTINF:0,Карибу
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
+
+#EXTINF:0,Колыма-Плюс
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
+
+#EXTINF:0,41 Регион
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+
+#EXTINF:0,Камчатка
+#EXTGRP:ТВ
+#EXTVLCOPT:network-caching=1000
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
+
+#EXTINF:0,Псков (Ольгинский мост)
+#EXTGRP:WEB-камера
+https://citycams.pskovline.ru:8443/cam2/tracks-v1/mono.m3u8
+
+#EXTINF:0,Псков
+#EXTGRP:WEB-камера
+http://citycams.pskovline.ru:8080/cam13/index.m3u8
+
+#EXTINF:0,Псков (Октябрьская пл.)
+#EXTGRP:WEB-камера
+https://citycams.pskovline.ru:8443/cam1/tracks-v1/mono.m3u8
+
+#EXTINF:0,Псков (Площадь Ленина)
+#EXTGRP:WEB-камера
+https://citycams.pskovline.ru:8443/cam3/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,С-Пб (Площадь)
+#EXTGRP:WEB-камера
+https://streamer.camera.rt.ru/public/variant.m3u8?sid=ac4ad2e3-8615-4d5b-90dc-3f6a57d9a589
+
+#EXTINF:0,С-Пб (Петергоф)
+#EXTGRP:WEB-камера
+http://cam.satnet-spb.ru/stream/5a67a7b7900850ad9da2584c.m3u8
+
+#EXTINF:0,С-Пб (Кудрово)
+#EXTGRP:WEB-камера
+http://kudrovo.unetcom.ru/kudrovo/video.m3u8
+
+#EXTINF:0,С-Пб (Пушкин)
+#EXTGRP:WEB-камера
+https://hls-spb03.timetechnology.ru:8080/3173/hls/30c2c0e622224dbf/live.m3u8
+
+#EXTINF:0,С-Пб (Пушкин)
+#EXTGRP:WEB-камера
+https://hls-spb03.timetechnology.ru:8080/3174/hls/1342076d000655a6/live.m3u8
+
+#EXTINF:0,С-Пб (Выборг)
+#EXTGRP:WEB-камера
+https://stream.vyborg.tv/hls/cam1/index.m3u8
+
+#EXTINF:0,С-Пб (Сосновый Бор)
+#EXTGRP:WEB-камера
+http://hls.all-sbor.net/video/cam1/playlist.m3u8
+
+#EXTINF:0,С-Пб (Сосновый Бор)
+#EXTGRP:WEB-камера
+http://hls.all-sbor.net/hls/cam5/playlist.m3u8
+
+#EXTINF:0,С-Пб (Сосновый Бор)
+#EXTGRP:WEB-камера
+http://hls.all-sbor.net/hls/cam3/playlist.m3u8
+
+#EXTINF:0,С-Пб (Кингисепп)
+#EXTGRP:WEB-камера
+http://flussonic.king-online.ru/camera02/index.m3u8
+
+#EXTINF:0,Карелия (Петрозаводск)
+#EXTGRP:WEB-камера
+http://s2.moidom.karelia.pro/s/public/0000001471.m3u8
+
+#EXTINF:0,Карелия (Петрозаводск)
+#EXTGRP:WEB-камера
+http://s3.moidom.karelia.pro/s/public/0000000521.m3u8
+
+#EXTINF:0,Карелия (Петрозаводск)
+#EXTGRP:WEB-камера
+http://s2.moidom.karelia.pro/s/public/0000001383.m3u8
+
+#EXTINF:0,Карелия (Петрозаводск)
+#EXTGRP:WEB-камера
+http://s2.moidom.karelia.pro/s/public/0000001391.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_2.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_13.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_11.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_7.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_8.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+http://ipcamstream2.inetcom.ru/hls/camera12_3.m3u8
+
+#EXTINF:0,Москва
+#EXTGRP:WEB-камера
+
+#EXTINF:0,Краснодар
+#EXTGRP:WEB-камера
+http://flussonic2.powernet.com.ru:8080/user177799/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-mamayka/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-kukuruza-plyaz/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://cam.dtel.ru/cam-lazar-gost-srorm/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://cam.dtel.ru/cam-lazar-gk-topol-naberejnaya/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-avtomobilist-ptz/tracks-v1a1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-Electronic-ptz/tracks-v1/index.m3u8
+
+#EXTINF:0,Сочи
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-partizanskaya15/tracks-v1/index.m3u8
+
+#EXTINF:0,Лазаревское
+#EXTGRP:WEB-камера
+https://cam.dtel.ru/cam-lazar-gost-storm-veranda/index.m3u8
+
+#EXTINF:0,Сириус
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-redisson-ptz/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:0,Геленджик
+#EXTGRP:WEB-камера
+https://webcam.admgel.ru/Naberzhnaya4/index.m3u8
+
+#EXTINF:0,Дагомыс
+#EXTGRP:WEB-камера
+https://lk.dtel.ru/cam/cam_d37_dagomys_sea/tracks-v1/mono.m3u8
+
+#EXTINF:0,Хоста
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:0,Хоста
+#EXTGRP:WEB-камера
+https://fl.tvintel.info:8443/mix-Electronic-ptz/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:0,Балашиха
+#EXTGRP:WEB-камера
+https://webcams.glavstroy.ru/100lichny-6/stream.m3u8
+
+#EXTINF:0,Бежецк
+#EXTGRP:WEB-камера
+http://new.bezhintercomp.ru:8080/hls/cam21/index.m3u8
+
+#EXTINF:0,Архангельск
+#EXTGRP:WEB-камера
+http://s3.moidom-stream.ru/s/public/0000091929.m3u8
+
+#EXTINF:0,Архангельск
+#EXTGRP:WEB-камера
+http://dvr5.astrakhan.ru/cheh-103-hd-1/index.m3u8
+
+#EXTINF:0,Архангельск
+#EXTGRP:WEB-камера
+http://dvr4.astrakhan.ru/kran-27-hd-1/tracks-v1/mono.m3u8
+
+#EXTINF:0,Великие Луки
+#EXTGRP:WEB-камера
+http://video.iluki.ru:8080/VLK-GOR-6-PUB-1/index.m3u8
+
+#EXTINF:0,Владикавказ
+#EXTGRP:WEB-камера
+http://catchup.videoline.ru/cam4/index.m3u8
+
+#EXTINF:0,Волгоград
+#EXTGRP:WEB-камера
+http://flussonic2.powernet.com.ru:8080/user81415/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+
+#EXTINF:0,Волгоград
+#EXTGRP:WEB-камера
+http://flussonic2.powernet.com.ru:8080/user36662/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+
+#EXTINF:0,Волжский
+#EXTGRP:WEB-камера
+http://flussonic2.powernet.com.ru:8080/user57948/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+
+#EXTINF:0,Галич
+#EXTGRP:WEB-камера
+https://cctvstreamer2.sv-en.ru:4430/hls/8193426/3e381500a65d6f95cb40/playlist.m3u8
+
+#EXTINF:0,Димитровград
+#EXTGRP:WEB-камера
+https://cctv-dd-intercom.aisgorod.ru/ipcam_DD_WaterIntake/index.m3u8
+
+#EXTINF:0,Саранск
+#EXTGRP:WEB-камера
+http://s2.moidom-stream.ru/s/public/0000090621.m3u8
+
+#EXTINF:0,Саранск
+#EXTGRP:WEB-камера
+http://s2.moidom-stream.ru/s/public/0000090623.m3u8
+
+#EXTINF:0,Иваново
+#EXTGRP:WEB-камера
+https://node1videokontrol.icomtel.ru:18080/hls/10920042/2bae40862e062dc9353a/playlist.m3u8
+
+#EXTINF:0,Иваново
+#EXTGRP:WEB-камера
+https://node1videokontrol.icomtel.ru:18080/hls/10919990/1df135a7f98c14c108c7/playlist.m3u8
+
+#EXTINF:0,Калуга
+#EXTGRP:WEB-камера
+https://cam-kaluga.saferegion.net/pj2d-5hH/chunks.m3u8
+
+#EXTINF:+1,Банное
+#EXTGRP:WEB-камера
+http://video-mgn.freedom1.ru/mgn.glc-bannoe/index.m3u8
+
+#EXTINF:0,+2.Надым
+#EXTGRP:WEB-камера
+http://s3.moidom-stream.ru/s/public/0000092430.m3u8
+
+#EXTINF:0,+2.Казань
+#EXTGRP:WEB-камера
+http://cdn.universmotri.ru/ipcam/cam34.stream/playlist.m3u8
+
+#EXTINF:0,+2.Казань
+#EXTGRP:WEB-камера
+http://cdn.universmotri.ru/ipcam/cam39.stream/playlist.m3u8
+
+#EXTINF:0,+2.Оренбург (ул.Советская-Памятник Чкалову)
+#EXTGRP:WEB-камера
+http://chkalov.camsh.1743.ru/hls/chkalov-sd.m3u8
+
+#EXTINF:0,+2.Оренбург (ул.Володарского-СБЕРБАНК)
+#EXTGRP:WEB-камера
+http://sberbank.camsh.1743.ru/hls/sberbank-sd.m3u8
+
+#EXTINF:0,+2.Оренбург (ул.Гагарина-ул.Мира)
+#EXTGRP:WEB-камера
+http://mira-gagarina.camsh.1743.ru/hls/mira-gagarina-sd.m3u8
+
+#EXTINF:0,+2.Оренбург (ул.Чкалова-д/к Газовик)
+#EXTGRP:WEB-камера
+http://gazovik.camsh.1743.ru/hls/gazovik-sd.m3u8
+
+#EXTINF:0,+2.Оренбург (пр-т Победы-ул. Шевченко)
+#EXTGRP:WEB-камера
+http://pobedy-shevchenko.camsh.1743.ru/hls/pobedy-shevchenko-sd.m3u8
+
+#EXTINF:0,+2.Оренбург (ул.Салмышская)
+#EXTGRP:WEB-камера
+http://salmyshskaya.camsh.1743.ru/hls/salmyshskaya-sd.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://oztp-market.camsh.orsk.ru/hls/oztp-market.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://oztp-krug.camsh.orsk.ru/hls/oztp-krug.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://shevchenko.camsh.orsk.ru/hls/shevchenko.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://ctc.camsh.orsk.ru/hls/ctc.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://komsomolskaya2.camsh.orsk.ru/hls/komsomolskaya2.m3u8
+
+#EXTINF:0,+2.Орск
+#EXTGRP:WEB-камера
+http://central-park.camsh.orsk.ru/hls/central-park.m3u8
+
+#EXTINF:0,+2.Гай
+#EXTGRP:WEB-камера
+http://gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8
+
+#EXTINF:0,+2.Гай
+#EXTGRP:WEB-камера
+http://gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8
+
+#EXTINF:0,+2.Екатеринбург
+#EXTGRP:WEB-камера
+https://cctv-sa2-b2b.ekat.ertelecom.ru:18080/hls/41086261/fe9478f4bdb0de7f23eb/playlist.m3u8
+
+#EXTINF:0,+2.Екатеринбург
+#EXTGRP:WEB-камера
+https://hls-pik.cdnvideo.ru/pikcam/cam398/tracks-v1/mono.m3u8
+
+#EXTINF:0,+2.Нижневартовск
+#EXTGRP:WEB-камера
+https://nginx03.pride-net.ru/mira94/index.m3u8
+
+#EXTINF:0,+2.Нижневартовск
+#EXTGRP:WEB-камера
+https://nginx03.pride-net.ru/gk40/index.m3u8
+
+#EXTINF:0,+2.Нижний Тагил
+#EXTGRP:WEB-камера
+http://cam.ntks.ru/pervomayskaya19hd/index.m3u8
+
+#EXTINF:0,+2.Нижний Тагил
+#EXTGRP:WEB-камера
+http://cam.ntks.ru/goroshnikova66hd/index.m3u8
+
+#EXTINF:0,+2.Новый Уренгой
+#EXTGRP:WEB-камера
+http://lifecam.sigma-ktv.ru/gus/index.m3u8
+
+#EXTINF:0,+2.Октябрьский
+#EXTGRP:WEB-камера
+http://flussonic2.powernet.com.ru:8080/user78853/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
+
+#EXTINF:0,+2.Сургут
+#EXTGRP:WEB-камера
+http://flussonic.tele-plus.ru/Lenina_38_5pod_1/index.m3u8?token=dvor86
+
+#EXTINF:0,+2.Сургут
+#EXTGRP:WEB-камера
+http://flussonic.tele-plus.ru/Ugorskaya_42/index.m3u8?token=dvor86
+
+#EXTINF:0,+4.Новосибирск
+#EXTGRP:WEB-камера
+https://wowza-2.novo-sibirsk.ru/live/monument_3.stream/playlist.m3u8
+
+#EXTINF:0,+4.Новосибирск
+#EXTGRP:WEB-камера
+https://wowza-2.novo-sibirsk.ru/live/monument_1.stream/playlist.m3u8
+
+#EXTINF:0,+4.Междуреченск
+#EXTGRP:WEB-камера
+http://hls.m-ten.ru:8080/hls/12/live.m3u8
+
+#EXTINF:0,+4.Междуреченск
+#EXTGRP:WEB-камера
+http://hls.m-ten.ru:8080/hls/6/live.m3u8
+
+#EXTINF:0,+4.Новокузнецк
+#EXTGRP:WEB-камера
+http://ipcam.rdtc.ru/ipcam/ipcam_13/tracks-v1/mono.m3u8
+
+#EXTINF:0,+4.Новокузнецк
+#EXTGRP:WEB-камера
+http://ipcam.rdtc.ru/ipcam/ipcam_5/tracks-v1/mono.m3u8
+
+#EXTINF:0,+4.Барнаул
+#EXTGRP:WEB-камера
+https://live.katun24.ru:8082/port_ptz/index.m3u8
+
+#EXTINF:0,+4.Барнаул
+#EXTGRP:WEB-камера
+https://live.katun24.ru:8082/Most_Rynok/tracks-v1/mono.m3u8
+
+#EXTINF:0,+4.Барнаул
+#EXTGRP:WEB-камера
+https://live.katun24.ru:8082/stroteley_soch/index.m3u8
+
+#EXTINF:0,+4.Барнаул
+#EXTGRP:WEB-камера
+https://live.katun24.ru:8082/port_ptz/index.m3u8
+
+#EXTINF:0,+4.Белокуриха
+#EXTGRP:WEB-камера
+https://cctv-sa8-b2b.nn.ertelecom.ru:18080/hls/2151153573/96aa1ecf5af8242578d1/playlist.m3u8
+
+#EXTINF:0,+4.Белокуриха
+#EXTGRP:WEB-камера
+https://live.katun24.ru:8082/belokyr_cerkovka/tracks-v1/mono.m3u8
+
+#EXTINF:0,+5.Иркутск
+#EXTGRP:WEB-камера
+https://video1.dsi.ru:8091/hls/15736358/896208525f35dcf56269/playlist.m3u8
+
+#EXTINF:0,+5.Улан-Удэ
+#EXTGRP:WEB-камера
+http://stream.trafjam.ru/cam11_site/tracks-v1/mono.m3u8
+
+#EXTINF:0,+5.Улан-Удэ
+#EXTGRP:WEB-камера
+http://stream.trafjam.ru/cam3_site/tracks-v1/mono.m3u8
+
+#EXTINF:0,+5.Братск
+#EXTGRP:WEB-камера
+http://cam2.teleos.ru/lenin/tracks-v1/mono.m3u8
+
+#EXTINF:0,+5.Братск
+#EXTGRP:WEB-камера
+http://cam2.teleos.ru/kirova14a/tracks-v1/mono.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+http://hls7.vladlink.ru/live/vlcam_117/playlist.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+http://hls7.vladlink.ru/live/vlcam_42/playlist.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+http://stream.vladrec.info/basargina_16/tracks-v1/mono.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+http://stream.vladrec.info/fanvizino_2_cam1/tracks-v1/mono.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+http://stream.vladrec.info/fast_50_cam_2/tracks-v1/mono.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+https://hls7.vladlink.ru/live/vlcam_18343/playlist.m3u8
+
+#EXTINF:0,+7.Владивосток
+#EXTGRP:WEB-камера
+https://hls7.vladlink.ru/live/vlcam_18245/playlist.m3u8
+
+#EXTINF:0,+8.Магадан
+#EXTGRP:WEB-камера
+https://rec.maglan.ru:18080/hls/17143768/55671b09307ad6b7d305/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/w684w69mjix4tsm/russkiy-kray.png" tvg-id="russkiy-kray", 100.5_Русский Край (-1.Калининград)
+#EXTGRP:РАДИО
+http://83.219.150.176:8000/RusKray128kb
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwc61g3bf6ggyll/baltik%2B.jpg" tvg-id="baltik%2B", 105.2_Балтик Плюс (-1.Калининград)
+#EXTGRP:РАДИО
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zufibfz3sejzrcd/voltage.jpg" tvg-id="voltage", 100.0_VOLTAGE FM (-1.Советск)
+#EXTGRP:РАДИО
+https://radio.voltagefm.ru:9009/VOLTAGEFM
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1e61bhc87954hp1s53ocy/chernyakhovsk_fm.jpg?rlkey=75nctqz116p8k7gntxlljiyyl&dl=0" tvg-id="chernyakhovsk_fm", 106.0_Черняховск FM (-1.Черняховск)
+#EXTGRP:РАДИО
+http://hls-01-chernyakhovskfm.hostingradio.ru/chernyakhovskfm/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/01ggdsegkx3exe856y8nh/kometa.jpg?rlkey=q1kxjtwanhtjvtlj0fjts65f7&dl=0" tvg-id="kometa", 92.6_КОМЕТА (Донецк)
+#EXTGRP:РАДИО
+http://93.157.8.150:48100/kometa
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/xqqfca5e1t2rbvw/stolica100.jpg" tvg-id="stolica100", 100.0_СТОЛИЦА (Донецк)
+#EXTGRP:РАДИО
+http://93.157.8.150:48100/stl
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l1ufoxs16f9ztmbsp4pp4/radar104.7donezk.jpg?rlkey=klhsq2w9thihdyk30koru6h5z&dl=0" tvg-id="radar104.7donezk", 104.7_Радар (Донецк)
+#EXTGRP:РАДИО
+https://radarfm.ru/proxy-audio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/869xf7l4evgfrzt/rocks.jpg" tvg-id="rocks", 106.8_ROCKS Новороссия (Донецк)
+#EXTGRP:РАДИО
+https://icecast-radiorocks.cdnvideo.ru/roks.stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vbykqyv1r4tfz76yfyzpd/rokot101.8lugansk.jpg?rlkey=2c5t7rysre0sthfu7jbisn6mh&dl=0" tvg-id="rokot101.8lugansk", 101.8_Рокот (Луганск)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/rokot_fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4zwcwfrmiec6fs1eaazgd/homayk.jpg?rlkey=kkz7e33qehckln3dxy5mgf0zs&dl=0" tvg-id="homayk", 102.3_Хомяк (Луганск)
+#EXTGRP:РАДИО
+http://radio.play-fm.ru:8000/homyak
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/p7t5vpql54iyubz/svoyo-radio.png" tvg-id="svoyo-radio", 103.6_Своё радио (Луганск)
+#EXTGRP:РАДИО
+https://radio.gtrklnr.ru:8443/your.fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hggxnd328vewfr2/play_fm.jpg" tvg-id="play_fm", 105.5_Play (Луганск)
+#EXTGRP:РАДИО
+https://radio.play-fm.ru:8001/playfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v76pg95klxd12pmpe1fvg/pika104.1melitopol.png?rlkey=s0tmv5s44f1w8yl5md224xmzp&dl=0" tvg-id="pika104.1melitopol", 104.1_Пика (Мелитополь)
+#EXTGRP:РАДИО
+http://radio.pika-fm.ru:8000/pika.fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mkh9ibhn5tqi5cgh7qhwm/yuzniy-prostor.jpg?rlkey=1ksal2vhn2dewt7t3fn9m2y1u&dl=0" tvg-id="yuzniy-prostor", 103.7_Южный Простор (Мелитополь)
+#EXTGRP:РАДИО
+http://listen6.myradio24.com:9000/4259
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2s2nmloy8c51fhza6tfu8/ug_molodoi.jpg?rlkey=ochx20pnr8m53hdtaetzqrrnh&dl=0" tvg-id="ug_molodoi", 107.2_Юг Молодой (Мелитополь)
+#EXTGRP:РАДИО
+https://listen4.myradio24.com/18718
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fyrorslhah7uq95fjwd93/tavria103.5herson.jpg?rlkey=oay6f20e1qenir6tw8jj93v5j&dl=0" tvg-id="tavria103.5herson", 103.5_Таврия (Херсон)
+#EXTGRP:РАДИО
+https://tavria.hostingradio.ru/tavria192.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6yzvgdylc1lsj83ij6x9j/sedmoe_nebo.gif?rlkey=qrcalvgtlzj4vxfs4r7xochm1&dl=0" tvg-id="sedmoe_nebo", 107.1_Седьмое небо (Псков)
+#EXTGRP:РАДИО
+http://91.201.117.219:8000/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/w0e73xp7xn0c8p3/luki_fm.jpg" tvg-id="luki_fm", 102.6_Луки (Великие Луки)
+#EXTGRP:РАДИО
+https://luki.ru/listen/lukifm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/toetgd012binc42/dorojnoe_87.5.gif" tvg-id="dorojnoe_87.5", 87.5_Дорожное (СПб)
+#EXTGRP:РАДИО
+http://dorognoe.hostingradio.ru:8000/dorognoe
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/bao6ouxy28rf5rl/zenit_89.7.png" tvg-id="zenit_89.7", 89.7_Зенит (СПб)
+#EXTGRP:РАДИО
+https://radiozenit.hostingradio.ru/radiozenit256.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/4mi89ivcr2ztct8/ermitaj.jpg" tvg-id="ermitaj", 90.1_Эрмитаж (СПб)
+#EXTGRP:РАДИО
+http://hermitage.hostingradio.ru/hermitage128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/1jcw9tkg8wrpgsp/vanya.gif" tvg-id="vanya", 90.6_ВАНЯ (СПб)
+#EXTGRP:РАДИО
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l233c161m0gm2qiwiwa1d/NRJ.jpg?rlkey=scp8om38xqcjdnefubhybjc8h&dl=0" tvg-id="NRJ", 95.0_NRJ (СПб)
+#EXTGRP:РАДИО
+http://hls-01-gpm.hostingradio.ru/energyfm812/128/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/h8cxnht4ydbg5xh/royal_98.6.jpg" tvg-id="royal_98.6", 98.6_ROYAL (СПб)
+#EXTGRP:РАДИО
+https://c22.radioboss.fm/stream/186
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/r5iu0aa9i45q4nz/europa_100.5.png" tvg-id="europa_100.5", 100.5_Europa Plus (СПб)
+#EXTGRP:РАДИО
+http://emgspb.hostingradio.ru/europaplusspb128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/npb4a3ome3qbggnw6d682/piter_100.9.jpg?rlkey=6pw96n6bfpzq59ao7rq8d0zmd&dl=0" tvg-id="piter_100.9", 100.9_ПИТЕР (СПб)
+#EXTGRP:РАДИО
+https://piterfm-hls.cdnvideo.ru/piterfm-live/piterfm.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/cyyaqkc61pm48da/eldo_101.4.jpg" tvg-id="eldo_101.4", 101.4_Эльдорадио (СПб)
+#EXTGRP:РАДИО
+http://emgspb.hostingradio.ru/eldoradio128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/5m8gh718d56gbng/metro_102.4.png" tvg-id="metro_102.4", 102.4_МЕТРО (СПб)
+#EXTGRP:РАДИО
+http://stream.gardaricafm.ru:8000/metro.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8fl7yu5bafvlh0c/nashe_104.png" tvg-id="nashe_104", 104.0_Наше радио (СПб)
+#EXTGRP:РАДИО
+http://nashe.streamr.ru/nashespb128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/h8krwcu54p6uddp/monte-carlo_105.9.png" tvg-id="monte-carlo_105.9", 105.9_Monte Carlo (СПб)
+#EXTGRP:РАДИО
+http://montecarloreg.hostingradio.ru/spb.montecarlo160.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/lvf6nal099vv6vx/record_106.3.jpg" tvg-id="record_106.3", 106.3_RECORD (СПб)
+#EXTGRP:РАДИО
+http://radiorecord.hostingradio.ru/rr_main96.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/x7gaybybbf8hbs6/russkoe_107.8_spb.jpg" tvg-id="russkoe_107.8_spb", 107.8_Русское радио (СПб)
+#EXTGRP:РАДИО
+https://rusradioreg.hostingradio.ru/spb.rusradio128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mc4ugbrjketavm4i7hx70/nikol_99.3nikol.png?rlkey=g4nasaa7fhr0j0ztkfhsgvxlw&dl=0" tvg-id="nikol_99.3nikol", 99.3_Никольское
+#EXTGRP:РАДИО
+http://176.99.73.47:8000/nikfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/4yay0tvp2xbtfxn/nostalgie.jpg" tvg-id="pioner_fm", 97.4_NOSTALGIE (Сосновый Бор)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/NOSTALGIE_SBOR
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3dwwi0e7s9sqz30/balt.bereg_103.jpg" tvg-id="balt.bereg_103", 103.0_Балтийский берег (Сосновый бор)
+#EXTGRP:РАДИО
+http://91.203.171.138:8080/
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/fa1qxs6bb2v00lu/fresh_105.png" tvg-id="fresh_105", 105.0_Fresh (Сосновый бор)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/freshfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/d0fk2ypse2von45/modnoe_95.2.png" tvg-id="modnoe_95.2", 95.2_Модное радио (Выборг)
+#EXTGRP:РАДИО
+http://cast.modnoeradio.ru:8000/mp128
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/sh0yikqhnbk3kua/miks_106.jpg" tvg-id="miks_106", 106.0_Микс (Луга)
+#EXTGRP:РАДИО
+http://media.luga.ru:8002/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ckvlr6hfwj4aj1i/kirishi_105.5.jpeg" tvg-id="kirishi_105.5", 105.5_Кириши (Кириши)
+#EXTGRP:РАДИО
+http://79.173.124.92:8000/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kla0wzs2dhifcgc/shock_98.png" tvg-id="shock_98", 98.0_SHOCK (Кингисепп)
+#EXTGRP:РАДИО
+http://spb.radioshock.ru/radioshock
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/awfit8pxghnrnae/SPB1.jpg" tvg-id="SPB1", SPB1 (СПб)
+#EXTGRP:РАДИО
+http://listen2.myradio24.com:9000/2666
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ufzxuzt2bh3cyom/revolution.png" tvg-id="revolution", Revolution (СПб)
+#EXTGRP:РАДИО
+http://revolutionradio.ru:8000/live.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9af1yzncav9ne9u/dance_wave.jpg" tvg-id="dance_wave", Dance Wave (СПб)
+#EXTGRP:РАДИО
+http://stream.dancewave.online:8080/dance.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zgno5sryt8gprdieaswa2/moto.png?rlkey=e3nshk1n1f9erx8twvnv8cjgl&dl=0" tvg-id="moto", Moto Radio (СПб)
+#EXTGRP:РАДИО
+https://stream.motoradio.online/high-mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/4hh6nyx6jqm7qsz/trancemission.jpg" tvg-id="trancemission", RECORD Trancemission (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-tm/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/xioa01h41s3p52x/dream_dance.jpg" tvg-id="dream_dance", RECORD Dream Dance (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-dream/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wxhqolbqwfm5yj3/trance_classics.jpg" tvg-id="trance_classics", RECORD Trance Classics (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-trancehits/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/d4uj0yx1ypi615d/technopop.jpg" tvg-id="technopop", RECORD TechnoPop (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-technopop/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/itn8hyfdm92dgmx/super90.jpg" tvg-id="super90", RECORD Супердискотека 90х (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-sd90/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/pln9ynf9qz5uf1y/techno.png" tvg-id="techno", RECORD Techno (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-techno/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/v97i20uw5rc9ynj/dancecore.png" tvg-id="dancecore", RECORD Dancecore (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-dc/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/60ntisp3oreeue6/rave.jpg" tvg-id="rave", RECORD Rave (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-rave/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/90k37t7i9n9tweq/drumnbass-hits.jpg" tvg-id="drumnbass-hits", RECORD Drum n Bass (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-drumhits/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gdpac3m4tnyzspx/pirate.jpg" tvg-id="pirate", RECORD Pirate Station (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-ps/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/e05506ar97cvmv1/gopfm.png" tvg-id="gopfm", RECORD Гоп (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-gop/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dqloo7gn1nmiadu/Rock.jpg" tvg-id="Rock", RECORD Rock (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-rock/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/1hq84hdk1srqrq0/80e.jpg" tvg-id="80e", RECORD 80-x (СПб)
+#EXTGRP:РАДИО
+http://hls-01-radiorecord.hostingradio.ru/record-1980/96/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zqc0pzpqr0lw554/radio53_102.7.jpg" tvg-id="radio53_102.7", 102.7_Радио 53 (В.Новгород)
+#EXTGRP:РАДИО
+http://84.242.241.66:8000/;stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4it0tre6cxl5jk5gatpul/mvdiapozon_101.5mv.jpg?rlkey=r2xsvk5q7k1sq12v6hh9rxtqx&dl=0" tvg-id="mvdiapozon_101.5mv", 101.5_МВ Диапазон (Малая Вишера)
+#EXTGRP:РАДИО
+http://onair.mvdiapazon.ru:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/sp8iatzzv7d3chh/infiniti_100.5.jpg" tvg-id="infiniti_100.5", 100.5_ИНФИНИТИ (Дорогобуж)
+#EXTGRP:РАДИО
+http://radio.dor-net.ru:8000/radio_stream.mp3
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7g3ous9u9mbfiagqd0ke2/dls.jpg?rlkey=mcx29i9kofo20bhnh2iie0ty7&dl=0" tvg-id="dls", 102.1_DLS (Десногорск)
+#EXTGRP:РАДИО
+http://213.137.248.211:8000/dls
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/xzg5tcsltg9338p/power_104.5.jpg" tvg-id="power_104.5", 104.5_Power Хит (Мурманск)
+#EXTGRP:РАДИО
+https://radio.dline-media.com/powerhit128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/28qi5hhzf2hsx32/bolshoe_106.9.png" tvg-id="bolshoe_106.9", 106.9_Большое радио (Мурманск)
+#EXTGRP:РАДИО
+http://listen2.myradio24.com:9000/8286?2
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zdvlk3rprew33qz312pzj/narodnoe_102.5kirovsk.jpg?rlkey=1b2wpel6mad9jntxpwv2vo0gm&dl=0" tvg-id="narodnoe_102.5kirovsk", 102.5_Народное радио Хибины (Кировск)
+#EXTGRP:РАДИО
+http://hibinyfm.tlset.ru:8100/
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/grhcvirqsamio35/sever_87.5.jpeg" tvg-id="sever_87.5", 87.5_Север (Североморск)
+#EXTGRP:РАДИО
+http://radio.mediacdn.ru/sever
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8l73knymlycyk03/radio10_100.png" tvg-id="radio10_100", 100.0_Радио 10 (Петрозаводск)
+#EXTGRP:РАДИО
+http://ic.radio10.live/stream.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ky57x0d4bf2g2pc9jnmqf/mestnoe100.4.jpg?rlkey=atfgiv914augsebn07n0mb02d&dl=0" tvg-id="mestnoe100.4", 100.4_Местное радио (Костомукша)
+#EXTGRP:РАДИО
+http://93.190.204.101:8000/live_100_4.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/crkdymiej0qsl6e4gpy2b/vtorvolna102.3kostom.jpg?rlkey=641odpb690ugdmwo4aq833wr3&dl=0" tvg-id="vtorvolna102.3kostom", 102.3_Вторая волна (Костомукша)
+#EXTGRP:РАДИО
+http://93.190.204.101:8000/live_102_3.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/f83twmax91t0rb6/32_radio.gif" tvg-id="32_radio", 87.9_32 радио (Брянск)
+#EXTGRP:РАДИО
+https://online.guberniya.tv:8443/32radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/befckwiqlwqqhsz3z6kf6/avtodor90.9tver.jpg?rlkey=e6tno3qk5qvk6rzfpj5x0jiiw&dl=0" tvg-id="avtodor90.9tver", 90.9_Автодор (Тверь)
+#EXTGRP:РАДИО
+http://avtodor-tr.hostingradio.ru/avtodortr128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/im6hwi9uwas60us/pilor_102.7_tver.jpg" tvg-id="pilor_102.7_tver", 102.7_Пилот (Тверь)
+#EXTGRP:РАДИО
+http://online.tv-pilot.ru:1027/pilotradio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/sr8e34s36wuoeix/salutfm.jpg" tvg-id="salutfm", Салют (Тверь)
+#EXTGRP:РАДИО
+http://stream.salyutfm.ru:8000/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/pr2t07x6zjhsvop/otkrytie92.5orel.jpg" tvg-id="otkrytie92.5orel", 92.5_Открытие (Орёл)
+#EXTGRP:РАДИО
+https://discoveryfm.hostingradio.ru/discovery128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hiea5alnhskwpjl/ekspress100.4orel.jpg" tvg-id="ekspress100.4orel", 100.4_Экспресс (Орёл)
+#EXTGRP:РАДИО
+http://159.253.18.97:8000/128kbit.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gts2gexcadiqlv3ah9a3r/livni105.2.jpg?rlkey=1v9c99za2qjtc3g43wqsdenys&dl=0" tvg-id="livni105.2", 105.2_Ливны
+#EXTGRP:РАДИО
+https://listen5.myradio24.com/40350
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/psyrxefoxtnv3f4/nika103.1kaluga.jpg" tvg-id="nika103.1kaluga", 103.1_Ника (Калуга)
+#EXTGRP:РАДИО
+http://radio.nikatv.ru/;.mp4
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7q0hzupu0w2nqo8lb14ve/40.105.1kaluga.jpg?rlkey=l1rjwniy6cvm9i7ecmz5wauhv&dl=0" tvg-id="40.105.1kaluga", 105.1_Радио 40 (Калуга)
+#EXTGRP:РАДИО
+http://195.112.119.187:8000/Radio40
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/un30v1znz422jfy/kurs103.7.png" tvg-id="kurs103.7", 103.7_КУРС (Курск)
+#EXTGRP:РАДИО
+http://potok.radio-kurs.ru:8081/radio.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wvpik7qnagu1p78xw8304/zhelezo99.jpg?rlkey=3a1rgfuun5t8ivhhp8rhwx8hu&dl=0" tvg-id="zhelezo99", 99.0_Железо (Железногорск)
+#EXTGRP:РАДИО
+http://radio.kruglikov.info/fefm_192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jcy4jxeglvopux9rovcyu/z_kharkov.jpg?rlkey=413zz33rebc3855xjvfv9fsy6&dl=0" tvg-id="z_kharkov", 100.0_Харьков Z (Харьков)
+#EXTGRP:РАДИО
+http://control1.craftradio.ru:8000/stream02
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/73v64iqba5drw647vod1a/rfm88.3belgorod.png?rlkey=tlbstcagmof67jxu48f60k1cj&dl=0" tvg-id="rfm88.3belgorod", 88.3_RFM (Белгород)
+#EXTGRP:РАДИО
+https://h0.radiofreemusic.ru/hls/128.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/znve3kdsl1pa6kt/marusia_fm.gif" tvg-id="marusia_fm", 91.4_Маруся (Белгород)
+#EXTGRP:РАДИО
+http://radio-holding.ru:9000/marusya_default
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/f0g121ozbhh21zj/mirbelogoria100.9.jpg" tvg-id="mirbelogoria100.9", 100.9_Мир Белогорья (Белгород)
+#EXTGRP:РАДИО
+http://control.craftradio.ru:8000/225_a911c7db
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/f90cxns44ua656q/ZFM.jpg" tvg-id="ZFM", 105.2_Z FM (Белгород)
+#EXTGRP:РАДИО
+http://node0.craftradio.ru:8000/169_2FC31C8F
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8y06ayy81l7ojdo/pi71.3.jpg" tvg-id="pi71.3", 71.3_ПИ (МСК)
+#EXTGRP:РАДИО
+https://cdn.pifm.ru/mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hbrhoepn5qhikfm/like87.9.png" tvg-id="like87.9", 87.9_Like (МСК)
+#EXTGRP:РАДИО
+http://ic7.101.ru:8000/v12_1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/npotbolcblut2dm/Retro.jpg" tvg-id="Retro", 88.3_Ретро (МСК)
+#EXTGRP:РАДИО
+http://retroserver.streamr.ru:8043/retro256.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/866tqxowogx6xnp/yumor.png" tvg-id="yumor", 88.7_Юмор (МСК)
+#EXTGRP:РАДИО
+http://ic6.101.ru:8000/stream/air/aac/64/102
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/d5fkbsixh4rvxky/jazz89.1.png" tvg-id="jazz89.1", 89.1_JAZZ (МСК)
+#EXTGRP:РАДИО
+http://nashe.streamr.ru/jazz-128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/yvcquef2n9bz98s/kalina_krasnaya.gif" tvg-id="kalina_krasnaya", 89.5_Калина Красная (МСК)
+#EXTGRP:РАДИО
+https://icecast-studio21.cdnvideo.ru/KalynaK_1a
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/g1o6jtwhk5xqh6a/Avto.png" tvg-id="Avto", 90.3_Авторадио (МСК)
+#EXTGRP:РАДИО
+http://pub0101.101.ru:8000/stream/air/aac/64/100
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/fe0odk4eu1019nf/relax90.8.jpg" tvg-id="relax90.8", 90.8_Relax (МСК)
+#EXTGRP:РАДИО
+http://pub0101.101.ru:8000/stream/air/aac/64/200
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/awuj38hhwpt26k1/karnaval92.8.png" tvg-id="karnaval92.8", 92.8_Карнавал (МСК)
+#EXTGRP:РАДИО
+http://online.radiokarnaval.ru:8000/karnaval
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dmnuqkrm5ii3jaa/shokolad98.jpg" tvg-id="shokolad98", 98.0_Chocolate (МСК)
+#EXTGRP:РАДИО
+http://choco.hostingradio.ru:10010/fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/uuf2lxfo0syzxw9/novoe98.4moskva.jpeg" tvg-id="novoe98.4moskva", 98.4_Новое радио (МСК)
+#EXTGRP:РАДИО
+http://icecast.newradio.cdnvideo.ru/newradio3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/co4f58emwe9haay/romantika98.8.png" tvg-id="romantika98.8", 98.8_Romantika (МСК)
+#EXTGRP:РАДИО
+http://pub0101.101.ru:8000/stream/air/aac/64/101
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l7j54ro2sb24ro2/ruhit99%2C4serp.jpg" tvg-id="ruhit99%2C4serp", 99.6_Русский ХИТ (МСК)
+#EXTGRP:РАДИО
+http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/vfpqvflkb3eulv2/serebr100.1moskva.jpg" tvg-id="serebr100.1moskva", 100.1_Серебряный дождь (МСК)
+#EXTGRP:РАДИО
+http://213.59.4.27:8000/silver128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rbtnehs6rp3bgnl/ZharaFM100.5.jpg" tvg-id="ZharaFM100.5", 100.5_ЖАРА (МСК)
+#EXTGRP:РАДИО
+https://hls-01-zharafm.hostingradio.ru/zharafm/112/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1gju0oxbbxl8u8qo154z4/dfm.jpg?rlkey=0mox6rluuu6o9xjnxf9ksreud&dl=0" tvg-id="dfm", 101.2_D-fm (МСК)
+#EXTGRP:РАДИО
+https://dfm.hostingradio.ru/dfm96.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f5lcs387bs88d8unbi0sd/nashe101.8msk.jpg?rlkey=tusqwjw9wcbr4xk4wd9ztqm1u&dl=0" tvg-id="nashe101.8msk", 101.8_Наше радио (МСК)
+#EXTGRP:РАДИО
+http://nashe.streamr.ru/nashe-128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/pdmolsergqlshp1/monte102.1.jpg" tvg-id="monte102.1", 102.1_Monte Carlo (МСК)
+#EXTGRP:РАДИО
+https://montecarlo.hostingradio.ru/montecarlo128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9yukanxqu6kjuhz/comedy102.5mos.jpg" tvg-id="comedy102.5mos", 102.5_Comedy (МСК)
+#EXTGRP:РАДИО
+http://pub0101.101.ru:8000/stream/air/aac/64/202
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ud1t46n01nzt9pv/Shanson_103.0_Moskva.jpg" tvg-id="Shanson_103.0_Moskva", 103.0_Шансон (МСК)
+#EXTGRP:РАДИО
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ira5qs1kzsbyrcc/maximum.jpg" tvg-id="maximum", 103.7_MAXIMUM (МСК)
+#EXTGRP:РАДИО
+https://maximum.hostingradio.ru/maximum128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l233c161m0gm2qiwiwa1d/NRJ.jpg?rlkey=scp8om38xqcjdnefubhybjc8h&dl=0" tvg-id="NRJ", 104.2_NRJ (МСК)
+#EXTGRP:РАДИО
+http://pub0101.101.ru:8000/stream/air/aac/64/99
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6yycj1k44igr33n109kui/Radio_7.jpg?rlkey=jd404nm0b1mzrt02hj351p3hj&dl=0" tvg-id="Radio_7", 104.7_Радио 7 (МСК)
+#EXTGRP:РАДИО
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3ywokk7r4y2k7b6/russkoe105.7mos.jpg" tvg-id="russkoe105.7mos", 105.7_Русское радио (МСК)
+#EXTGRP:РАДИО
+https://rusradio.hostingradio.ru/rusradio96.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/lkq5njmzrh9zjk9/europa%2B.jpg" tvg-id="europa%2B", 106.2_Europa Plus (МСК)
+#EXTGRP:РАДИО
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8w2wcvxm5pweszrwo2r2f/marusia_fm.gif?rlkey=a47vicw16hi3g3p0w7di4f110&dl=0" tvg-id="marusia_fm", 107.0_Маруся (МСК)
+#EXTGRP:РАДИО
+http://msk1.radio-holding.ru:9000/marusya_default
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2p87q7uu6lizofu0h9b9e/hitfm107.4.moskwa.jpg?rlkey=k3zosgm6u04bhc3jaak8u2qkq&dl=0" tvg-id="hitfm107.4.moskwa", 107.4_ХИТ (МСК)
+#EXTGRP:РАДИО
+http://23.105.238.4/hitfm128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/y8z6a2ro4p9c8h5/mil107.8.jpg" tvg-id="mil107.8", 107.8_Милицейская Волна (МСК)
+#EXTGRP:РАДИО
+http://radio.mvd.ru:8000/mv128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/iv58a749jodgt27/noginsk_fm.jpg" tvg-id="noginsk_fm", 104.9_Радио Ногинска (Ногинск)
+#EXTGRP:РАДИО
+https://a7.radioheart.ru:9008/radionoginsk
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wag07725uot3sda90zh3r/smorodina.jpg?rlkey=qmeyz7l614npvbtme9z8dnik4&dl=0" tvg-id="smorodina", 103.9_Смородина (Купавна)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/smorodina
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i24hslvr1ngqw9om9g8ik/posad.gif?rlkey=0iq2ckwxjzn0i6nz21xayh61p&dl=0" tvg-id="posad", 90.6_Посад (Сергиев Посад)
+#EXTGRP:РАДИО
+http://a1.radioheart.ru:8001/RH4122
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/oex7q1ha3f53yyz/megapolis89.5.jpg?dl=0" tvg-id="megapolis89.5", MEGAPOLIS (МСК)
+#EXTGRP:РАДИО
+http://megapolisfm.hostingradio.ru/megapolisfm96.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m9aovl8fgmqq0ac3fbjtv/pioneer.jpg?rlkey=qu40y71w9jed1z6t233xu6a1i&dl=0" tvg-id="pioneer", ПИОНЕР (МСК)
+#EXTGRP:РАДИО
+http://91.210.171.209:8000/pfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/e0qexakr4z8ekv4/keks.jpg" tvg-id="keks", КЕКС (МСК)
+#EXTGRP:РАДИО
+http://emg02.hostingradio.ru/keksfm64.aac
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dngud8cw9h9wa6n/svezhee.gif" tvg-id="svezhee", Europa+Свежее (МСК)
+#EXTGRP:РАДИО
+http://stream1.hostingradio.ru:8010/9_aac_96
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/fzjdhp3noxexjqt/premium.png" tvg-id="premium", PREMIUM (МСК)
+#EXTGRP:РАДИО
+http://listen.rpfm.ru:9000/premium192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rki41w6trzxsfob/passazh.png" tvg-id="passazh", Пассаж (МСК)
+#EXTGRP:РАДИО
+http://listen.radiopassazh.ru/mp3-128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zy8u0os5g670kjb/megaradio.jpg" tvg-id="megaradio", MegaRadio (МСК)
+#EXTGRP:РАДИО
+https://mega.amgradio.ru/mega?nc=229139
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wdkucf8pq5somil/playfm.jpg" tvg-id="playfm", Play (МСК)
+#EXTGRP:РАДИО
+http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ktbwqc2feqrg8so/tnt-music.png" tvg-id="tnt-music", ТНТ Music Radio (МСК)
+#EXTGRP:РАДИО
+https://tntradio.hostingradio.ru:8027/tntradio128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qg01yxlk73pc77l/nashe-2-0.png" tvg-id="nashe-2-0", Наше_2.0 (МСК)
+#EXTGRP:РАДИО
+https://nashe1.hostingradio.ru:80/nashe20-128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/1somtypnw31ggv5/ultra.jpg" tvg-id="ultra", ULTRA (МСК)
+#EXTGRP:РАДИО
+http://nashe.streamr.ru/ultra-192.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ey5dl78ov7q2h3f/max-90.gif" tvg-id="max-90", Maximum-90 (МСК)
+#EXTGRP:РАДИО
+http://maximum.hostingradio.ru/maximum9096.aacp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f7u2tcwaano9uk7fbk4kq/aleksin.jpg?rlkey=mvg9tva8kmhmsv4cuyjrxwg3f&dl=0" tvg-id="aleksin", 107.3_Алексин
+#EXTGRP:РАДИО
+http://icecast01.msk.d-net.pro:8000/Russia-Aleksin-107.3-RadioAleksin
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kp28vu6tgoichn4/melodia106.8voron.jpg" tvg-id="melodia106.8voron", 106.8_Мелодия (Воронеж)
+#EXTGRP:РАДИО
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ee8lpvywfpr11wk/borneo107.2voron.jpg" tvg-id="borneo107.2voron", 107.2_Борнео (Воронеж)
+#EXTGRP:РАДИО
+http://live.borneo.ru:8888/128
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jb2yvcnlux5x4s79joahk/noviy_mir.jpg?rlkey=4t34bix5kddb2szxtxwhzfaxf&dl=0" tvg-id="noviy_mir", 103.6_Новый Мир (Калач)
+#EXTGRP:РАДИО
+http://62.109.27.159:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oxptl56u92fz5uw7najyh/portal.jpg?rlkey=8sf6y2zsnedaj5o69q0fbwtnw&dl=0" tvg-id="portal", 103.1_Портал (Нововоронеж)
+#EXTGRP:РАДИО
+http://icecast-ext.dimfm.ru:8000/portal
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t8j0g32bwvywu39/SFM_102.png" tvg-id="SFM_102", 102.0_Севастополь
+#EXTGRP:РАДИО
+https://sevfm.ru:9006/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ouzem8upocbq3k84d9nel/tochka.png?rlkey=dl9ubmezag3a9d9njlrfi49ct&dl=0" tvg-id="tochka", 98.7_Точка (Симферополь)
+#EXTGRP:РАДИО
+https://fm.1tvcrimea.ru:19001/stream_provod.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lrxe8tb5hc7472i73ew3v/more.gif?rlkey=ko7lj7s9ky83c94r2m0egr8x2&dl=0" tvg-id="more", 100.6_Море (Симферополь)
+#EXTGRP:РАДИО
+https://sea.1tvcrimea.ru:19003/stream_sea.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/oylkww2bar3nwef/shpiker.png" tvg-id="shpiker", 100.0_Шкипер (Черноморское)
+#EXTGRP:РАДИО
+https://listen9.myradio24.com/bolshevek
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mq9mwg1nmcjg590f32pgi/yalta95.6.jpg?rlkey=kqlyxcwcyvtkmgn5hygbf4e0n&dl=0" tvg-id="yalta95.6", 95.6_Ялта
+#EXTGRP:РАДИО
+http://91.195.86.238:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n5xg9rdg8qrs3ayprdjck/kr99.8krasnodar.png?rlkey=yuk736ju5mhprcz6iw8j7qs07&dl=0" tvg-id="kr99.8krasnodar", 99.8_Краснодар
+#EXTGRP:РАДИО
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8bl1x903xzwt5se/pervoe-radio-krasnodar.gif" tvg-id="pervoe-radio-krasnodar", 102.7_Первое Радио (Краснодар)
+#EXTGRP:РАДИО
+http://188.170.219.153:8000/
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/okb0efpb19f03zc/kazak-fm.gif" tvg-id="kazak-fm", 105.2_Kazak (Краснодар)
+#EXTGRP:РАДИО
+http://radio.kazak.fm/kazak_fm.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/pb3i7oxuzpq0zdm/radio_107.gif" tvg-id="radio_107", 107.7_Радио 107 (Краснодар)
+#EXTGRP:РАДИО
+http://62.183.34.109:8000/radio107.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d3oduuui5fj0wk3lxnlm7/jam_101.5.gif?rlkey=47ep1w59m8rvera4bntrlrzp3&dl=0" tvg-id="jam_101.5", 101.5_Jam (Азовская)
+#EXTGRP:РАДИО
+http://listen9.myradio24.com/atamanfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/efpti6wfykrwv5cmoikxy/kurort.jpg?rlkey=suqaykwxpgfvnhwos6vfm7bcr&dl=0" tvg-id="kurort", 105.5_Курорт (Горячий Ключ)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/Resort_FM_105.5
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y8hs85m1m0vg20hiccm47/kurganinsk.jpg?rlkey=kg6ivkx12kmlc9fg105sv6hjz&dl=0" tvg-id="kurganinsk", 88.4_Курганинск
+#EXTGRP:РАДИО
+http://92.241.19.186:8001/KFM256
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ayrkh54navxb7fe/max_fm.jpg" tvg-id="max_fm", 107.4_МАКС (Сочи)
+#EXTGRP:РАДИО
+http://23.105.253.220:8000/maksfm192.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wyox8ua1hekmzdkzrz7a7/radio100.3.jpg?rlkey=mwm0hwx2pvdlvgjfvpnfljk95&dl=0" tvg-id="radio100.3", 100.3_Радио 100.3 (Анапа)
+#EXTGRP:РАДИО
+http://a2.radioheart.ru:8015/admin
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/i294m59iek71e2h/novaya-rossiya.gif" tvg-id="novaya-rossiya", 104.0_Новая Россия (Новороссийск)
+#EXTGRP:РАДИО
+http://91.194.120.107:8000/128
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/n3f51nw245bhznm/beskonechnost.gif" tvg-id="beskonechnost", 88.8_Бесконечность (Темрюк)
+#EXTGRP:РАДИО
+http://misato.ru-hoster.com:8067/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3mkdv44o3e1gk1e/NEXT_101.8.gif" tvg-id="NEXT_101.8", 101.8_NEXT (Туапсе)
+#EXTGRP:РАДИО
+http://46.151.241.221:8080/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/66sidbjgb837moaj4f0w3/kor87.7kor.jpg?rlkey=modt330cy0mvf9yk1bsusfcbd&dl=0" tvg-id="kor87.7kor", 87.7_Кореновск
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH41064
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3pl2txpauvg4durn72jq5/podsolnuh102.9kor.png?rlkey=n09hk50b6vllhbjm87vod6jwi&dl=0" tvg-id="podsolnuh102.9kor", 102.9_Подсолнух (Кореновск)
+#EXTGRP:РАДИО
+http://live.podsolnuh.media:8000/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pntqohgnb4e0e92nbrcd5/labinsk.jpg?rlkey=8r0kv7wkwr1xq3aqh5783rukv&dl=0" tvg-id="labinsk", 88.6_Лабинск (Усть-Лабинск)
+#EXTGRP:РАДИО
+http://online.radiolabinsk.ru:8000/Stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/09x91anp3et484w/ufm.jpg" tvg-id="ufm", 107.9_У-fm (Усть-Лабинск)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH41106
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nj8j7xxxtbfg7pf7cdt3a/rock_n_roll.jpg?rlkey=z32u1yl6h8i6oteiv4ue3oaes&dl=0" tvg-id="rock_n_roll", 91.5_Рок-н-Ролл (Геленджик)
+#EXTGRP:РАДИО
+http://a6.radioheart.ru:8046/RH1972
+
+#EXTINF:0, tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwbpva0rx1jabnd8vkf87/gln95.7gelenzik.jpg?rlkey=do45q1qgoxg4li2468f0izvuh&dl=0" tvg-id="gln95.7gelenzik", 95.7_Геленджик
+#EXTGRP:РАДИО
+http://serv39.vintera.tv:8081/radio_gel/radio_stream/icecast.audio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/apn984isqpfy7e2wkpqyj/sokfm.jpg?rlkey=zllb47b6bmsn5vsd8wximkegx&dl=0" tvg-id="sokfm", 93.5_Сок-FM (Староминская)
+#EXTGRP:РАДИО
+http://sokfm.ru:8000/320
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w6wnolydyoma74mt2dpxv/chistayavolna.png?rlkey=c0epbjrw823uau0uxdl4tgtng&dl=0" tvg-id="chistayavolna", 101.0_Чистая волна (Белореченск)
+#EXTGRP:РАДИО
+http://nms.cwradio.ru:8000/cw-256
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f0tvi8l9ih8rxzj1d6xwj/khr104.5.jpg?rlkey=pojqgzt2xqt5hl8gv33ekio1i&dl=0" tvg-id="khr104.5", 104.5_КЧР (Карачаевск)
+#EXTGRP:РАДИО
+http://radiokchr.ru:8043/kchrfm.aac
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gk3nd76ehybm0pd/lipetsk-fm.gif" tvg-id="lipetsk-fm", 90.7_Липецк
+#EXTGRP:РАДИО
+https://serv25.vintera.tv/liptime/liptime_radio/icecast.audio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rzh7370z9t3kjpx4og33k/rushit98.3lipezk.jpg?rlkey=3qod8c4wm7ex8c32d1g6atf33&dl=0" tvg-id="rushit98.3lipezk", 98.3_Русский ХИТ (Липецк)
+#EXTGRP:РАДИО
+http://service.radiovseti.ru:8000/obr_983
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/csjkh96wu4oipuva8cve3/ps104.2lipezk.jpg?rlkey=x64zz4gqu60bggtvi8yo3p2nt&dl=0" tvg-id="ps104.2lipezk", 104.2_Первое сетевое (Липецк)
+#EXTGRP:РАДИО
+https://streamer.radiovseti.ru:8000/320
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2q2gukqts5uebh4huyl0m/top102.4elec.jpg?rlkey=vpi9olc03qqtz3shd6clnw58u&dl=0" tvg-id="vanya89.7elez", 102.4_ТОП Радио (Елец)
+#EXTGRP:РАДИО
+http://service.radiovseti.ru:8000/obr_1024
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/i1dnvv4imut68rn/TKR_fm.gif" tvg-id="TKR_fm", 93.2_ТКР (Рязань)
+#EXTGRP:РАДИО
+http://176.118.220.124:8010/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/yvcquef2n9bz98s/kalina_krasnaya.gif" tvg-id="kalina_krasnaya", 106.7_Калина Красная (Рязань)
+#EXTGRP:РАДИО
+https://icecast-studio21.cdnvideo.ru/KalynaK_1a
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ga7ay9kfqf07pp4lpetb9/transmit.jpg?rlkey=l0cbm6odk7zku1xj5uoror08x&dl=0" tvg-id="transmit", 104.4_Тринсмит (Вологда)
+#EXTGRP:РАДИО
+http://95.182.123.24:8000/transmit
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hmcrdf1uqkzy9h6/megafm1064.gif" tvg-id="megafm1064", 106.4_MEGA (Архангельск)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH23554
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/49ciahxbqmvx6hx/region-29.gif" tvg-id="region-29", 107.4_Радио Р29 (Архангельск)
+#EXTGRP:РАДИО
+http://62.192.226.178:8000/stream.ogg
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pler4mg2po863h0m4tass/modern_severodvinsk.jpg?rlkey=5441uiitshta8g0860o7jgdnw&dl=0" tvg-id="modern_severodvinsk", 102.4_Модерн-Северодвинск
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH83726
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ixywidsts7o5nozqy4xmk/la97.4kirzhach.jpg?rlkey=h9ekappk3fym2sgoy8auzjdut&dl=0" tvg-id="la97.4kirzhach", 97.4_La-радио (Киржач)
+#EXTGRP:РАДИО
+http://178.178.104.249:8001/r97k4_128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/exptgd0nfskqw2s/ivanovo_fm.gif" tvg-id="ivanovo_fm", 106.7_Иваново
+#EXTGRP:РАДИО
+http://91.219.74.220:8000/IvanovoFM.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jmg5qdq23u951mgsiq3sn/radiodlyadvoih88.4.png?rlkey=i52l1xx4blhfq54q4ihfdrset&dl=0" tvg-id="radiodlyadvoih88.4", 88.4_Радио для Двоих (Кострома)
+#EXTGRP:РАДИО
+http://194.58.182.69:8000/Radio_for_2_Kostroma
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/q9n6hf8054zw4i9/noise_fm.gif" tvg-id="noise_fm", Noise (Кострома)
+#EXTGRP:РАДИО
+https://play.sas-media.ru/play_256
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l13yi90i32lzt6x/global_fm.gif" tvg-id="global_fm", 107.4_Global (Тамбов)
+#EXTGRP:РАДИО
+http://s07.radio-tochka.com:6455/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hwemzkdqiu4cpj5/svoe-fm-stavropolskii.png" tvg-id="svoe-fm-stavropolskii", 104.7_Своё (Ставрополь)
+#EXTGRP:РАДИО
+https://radiopotok2.online/node0.craftradio.ru:8000/61_AC75D71D
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3lhd51dl2y4dk7miq42pv/provincia100.9.jpg?rlkey=qodc82no21ja2fznp3v0id8or&dl=0" tvg-id="provincia100.9", 100.9_Провинция (Пятигорск)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH72522
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dvuwhmmt2vd49w2/tm-26.png" tvg-id="tm-26", 107.8_ТМ-26 (Кочубеевское)
+#EXTGRP:РАДИО
+http://listen7.myradio24.com:9000/58828
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/obvj7r86udtu19elujujd/vizavi-fm.png?rlkey=lab2hfkvbvvznc4zm04jcu78a&dl=0" tvg-id="vizavi-fm", 102.2_Визави (Невинномысск)
+#EXTGRP:РАДИО
+http://94.250.249.126:8000/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dfj4szg6jtmmaldtabz3o/kbr.jpg?rlkey=f0g2ennnsgkspkadkkkjn37jv&dl=0" tvg-id="kbr", 99.5_КБР (Нальчик)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH42108
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4w8bvp14pow8jyquai3d2/tihiy-don.gif?rlkey=ppvnkbgqqglo2meqmns38wpte&dl=0" tvg-id="fm-na-dony", 92.8_Тихий Дон (Ростов-на-Дону)
+#EXTGRP:РАДИО
+http://185.154.72.15:8000/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/966u5gurfoldnmw/fm-na-dony.gif" tvg-id="fm-na-dony", 100.7_FM-на-Дону (Ростов-на-Дону)
+#EXTGRP:РАДИО
+https://radio.mediacdn.ru/fm_na_donu.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8hc6z8kr2y0rgrm/161-fm.gif" tvg-id="161-fm", 161.FM (Ростов-на-Дону)
+#EXTGRP:РАДИО
+http://stream.161.fm:8000/192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r3ac4lkmc02lvr7ix0c74/malina-fm.gif?rlkey=sljzlkmvq0f6gsju7539v1qvx&dl=0" tvg-id="malina-fm", 104.2_Малина (Каменск-Шахтинский)
+#EXTGRP:РАДИО
+http://icecast01.msk.d-net.pro:8000/Russia-Kamensk-SH-104.2-MalinaFM
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kxafzqrs83y429uethd0u/donskoe106.3taganrog.jpg?rlkey=4kyim3cp1fyjfdzdurte9oh05&dl=0" tvg-id="donskoe106.3taganrog", 106.3_Донское (Таганрог)
+#EXTGRP:РАДИО
+https://donskoe-radio.online:8443/donskoeradio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/56l6z58ugfjjy47pbj843/radio-n.jpg?rlkey=2l53rrq6xfgjbcrb49fcbgxog&dl=0" tvg-id="radio-n", 102.6_Радио Н (Новочеркасск)
+#EXTGRP:РАДИО
+http://online.radio-n.ru:8000/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bb0w7eps0rvpu07lujnrh/randevu.gif?rlkey=t0dbpkexjww9ygfrckb0x5ubd&dl=0" tvg-id="randevu", 103.4_Рандеву (Н.Новгород)
+#EXTGRP:РАДИО
+http://stream.randevuradio.ru:8000/randevu
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/mm5sb6twgsg40fu/earthplusfm.gif" tvg-id="earthplusfm", Earth_Plus (Н.Новгород)
+#EXTGRP:РАДИО
+http://listen.eaplfm.com:5555/earthplusfm.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fuwoumf07vuq15iqp91uz/umnoe107.0sarov.jpg?rlkey=h2dhe760s637jtnuzt5d0sw9a&dl=0" tvg-id="umnoe107.0sarov", 107.0_Умное радио (Саров)
+#EXTGRP:РАДИО
+https://radio.sarov.info:8010/clever-radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwbexgartl2lpfe/transmit-sarov.gif" tvg-id="transmit-sarov", Трансмит (Саров)
+#EXTGRP:РАДИО
+http://95.182.123.24:8000/transmit
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k2s23hkx0t5yljoa89bds/p5294.3gorodez.jpg?rlkey=tack1h86w18t4wkdsypufi7kp&dl=0" tvg-id="p5294.3gorodez", 94.3_Р52 Твоё радио (Городец)
+#EXTGRP:РАДИО
+http://5.restream.one/427_1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pbzbi31l8zrw2qt9gmt4a/etalon102.1lukoyanov.jpg?rlkey=lqis8c7wir98hl71p4blkjvum&dl=0" tvg-id="etalon102.1lukoyanov", 102.1_Эталон (Лукоянов)
+#EXTGRP:РАДИО
+https://drh-node-02.dline-media.com/etalon
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lbkzjcwtt2ptp7ikulv6p/Valdai-fm.jpg?rlkey=6bvn3dlt6xdt5jq8fko8hm2mk&dl=0" tvg-id="Valdai-fm", 100.1_Валдай
+#EXTGRP:РАДИО
+http://78.36.156.37:9010/valdayfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2o15vto4wl5881h2qcsrr/demyansk.jpg?rlkey=9tzhmidvfkv5erq0y15b13bxw&dl=0" tvg-id="demyansk", 90.1_Демянск
+#EXTGRP:РАДИО
+http://r1071.zapto.org:1071/Demfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gn3niuik56mseho/101.8-penza.gif" tvg-id="101.8-penza", 101.8_Радио 101.8 (Пенза)
+#EXTGRP:РАДИО
+http://85.234.37.118/1018/r1018.m3u8
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l2p61mwpciw4hdmyu5svd/express_penza.jpg?rlkey=lyjg9mnbmu5zq6cv5inhvdw4z&dl=0" tvg-id="express_penza", 105.2_Экспресс (Пенза)
+#EXTGRP:РАДИО
+http://94.181.180.215:8000/express.hq
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bjw7183yel7tcxxhdj532/zarechniy.jpg?rlkey=95prm9h1cdax76s2omq3h6i56&dl=0" tvg-id="zarechniy", 103.3_Родное радио (Заречный)
+#EXTGRP:РАДИО
+http://85.234.36.51:8000/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/74utnfl6qcias89/start_fm.gif" tvg-id="start_fm", 104.5_Старт (Саранск)
+#EXTGRP:РАДИО
+http://87.76.5.59:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6y6cejv8keivtuw8i0no0/katusha93.8ruzaevka.jpg?rlkey=5dzls1skv337gkrgntzi2c5rx&dl=0" tvg-id="katusha93.8ruzaevka", 93.8_Катюша (Рузаевка)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/Katusha_FM
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gnnne8ck760jwei9lp3zo/prityagenie.jpg?rlkey=nylneh6337xjy75u9h397zced&dl=0" tvg-id="prityagenie", 102.0_Притяжение (Зубова Поляна)
+#EXTGRP:РАДИО
+http://broad.pritfm.ru:8000/pritfm.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/anygahftmdioj8z/tavan.gif" tvg-id="tavan", 100.3_Таван (Чебоксары)
+#EXTGRP:РАДИО
+http://icecast.ntrk21.ru:8000/tavan
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/tpi258bxd77anf0/radio-rodnyh-dorog.gif" tvg-id="radio-rodnyh-dorog", 102.0_Радио родных дорог (Чебоксары)
+#EXTGRP:РАДИО
+http://stream1.radiord.ru:8000/live96.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sewdu4wdi6clegxdyftqz/bolgar.gif?rlkey=fb10jjm8j7p5yb6re1kiqa3a4&dl=0" tvg-id="bolgar", 91.5_Болгар Радиосы (Казань)
+#EXTGRP:РАДИО
+http://live.bolgarradio.com/b_aac_hifi.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/43h61cwzbfp924a/bim_fm.gif" tvg-id="bim_fm", 102.8_БИМ (Казань)
+#EXTGRP:РАДИО
+http://av.bimradio.ru:8066/bim_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/377ex65n7l5qtq3/brejnev-fm.gif" tvg-id="brejnev-fm", 104.2_Брежнев (Менделеевск)
+#EXTGRP:РАДИО
+http://185.20.226.222:8000/brezhnev
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/lyf71zfiqqlb0jh/mariyafm.gif" tvg-id="mariyafm", 102.9_Мария (Киров)
+#EXTGRP:РАДИО
+http://mariafm.ru:8000/maria-fm.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m6mu8n8u4825xtle7xeeo/mechta107.2kirchepezk.jpg?rlkey=sux0at9gf03ubndboi2r5t2hz&dl=0" tvg-id="mechta107.2kirchepezk", 107.2_Мечта (Кирово-Чепецк)
+#EXTGRP:РАДИО
+https://stream.europapluskirov.ru:8443/mechta
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wkl2ipmerfustzo/puls-radio.gif" tvg-id="puls-radio", 103.8_Пульс (Йошкар-Ола)
+#EXTGRP:РАДИО
+http://puls-radio.ru:8000/puls_128
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/52578v9ux6qtiiit0u1nh/Mari-el-radio.jpg?rlkey=robqah4f6tzlxqfwr68pk94hn&dl=0" tvg-id="Mari-el-radio", 105.5_Марий Эл радио (Йошкар-Ола)
+#EXTGRP:РАДИО
+http://metr12.ru:8000/mer
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/x22w8xckxv2oe1f/metr-fm.gif" tvg-id="metr-fm", 107.2_МЭТР (Йошкар-Ола)
+#EXTGRP:РАДИО
+http://metr12.ru:8000/metrfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qrre0njztvp9r30/volgogradfm.gif" tvg-id="volgogradfm", 101.5_Волгоград
+#EXTGRP:РАДИО
+https://online.volgogradfm.ru/vfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/20kqs3cqtjdmus6d1oj88/novayavolna.jpg?rlkey=vgadjrztpq926bmvypdrbf3n3&dl=0" tvg-id="novayavolna", 102.0_Новая волна (Волгоград)
+#EXTGRP:РАДИО
+http://volgograd.sv-veter.ru:8008/nv_online
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9qkqloyzqkcm1zh/sputnik_105.1.gif" tvg-id="sputnik_105.1", 105.1_Спутник (Волгоград)
+#EXTGRP:РАДИО
+http://online.sputnikfm.ru:8000/sputnik_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ex0ywd4swd9w4h7jopak3/kamyshin.jpg?rlkey=7j9rr2zwf9984x5sptdycr4v8&dl=0" tvg-id="kamyshin", 88.2_Камышин
+#EXTGRP:РАДИО
+http://83.239.140.18:8000/;stream.nsv
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/au8a4j3uak0ugr4/avantazh.gif" tvg-id="avantazh", 100.2_Авантаж (Урюпинск)
+#EXTGRP:РАДИО
+https://listen6.myradio24.com/1508
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ywyp9spile5gos8eu8554/magas.jpg?rlkey=k5yxfnx11u1ci2i3dgrggir8g&dl=0" tvg-id="magas", 88.0_Магас
+#EXTGRP:РАДИО
+http://media.zaoitt.ru:8086/ingradio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gd5yhje0igqa3hp5ejz4y/aktivnoe.jpg?rlkey=66f3sayvlx7zfja6cvlhjj931&dl=0" tvg-id="aktivnoe", 99.6_Активное (+1.Балаково)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH68610
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0jl59t7hkad85njw0j4vo/astrahan88.7.jpg?rlkey=yn1qljflkwj5pzg337ds1dszx&dl=0" tvg-id="astrahan88.7", 88.7_Астрахань
+#EXTGRP:РАДИО
+http://stream.volnorez.com/live-app/813434?br=192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zm6vb0jilst6apjilczxe/uznayavolna.jpg?rlkey=idesxohmjdt9hq14f2w4j29vw&dl=0" tvg-id="uznayavolna", 104.1_Южная волна (+1.Астрахань)
+#EXTGRP:РАДИО
+https://213.80.160.102/?ee72
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/vllf4u60c7uau85/2x2.gif" tvg-id="2x2", 102.1_Радио 2х2 (+1.Ульяновск)
+#EXTGRP:РАДИО
+http://95.104.192.220:8001/radio2x2.ogg
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p744vu9qwfd49bae7jiyd/ulianovsfm104.2.jpg?rlkey=ihu439aaszqnm5s2yph9r6the&dl=0" tvg-id="ulianovsfm104.2", 104.2_Ульяновск
+#EXTGRP:РАДИО
+http://online.ulskfm.ru:8000/104i2_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yazf8w0ww5q4mz6cfic3i/art_group.jpg?rlkey=gsquf9y97lsebolk9gg22k8y6&dl=0" tvg-id="art_group", 102.2_АртГрупп (+1.Новоспасское)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH74067
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/s9s839bvtsme2as/guberbia-samara.gif" tvg-id="guberbia-samara", 92.5_Губерния (+1.Самара)
+#EXTGRP:РАДИО
+http://46.20.71.66:8000/fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/epq4p57b85dwy7e/samara-maximum.gif" tvg-id="samara-maximum", 104.3_Самара МАКСИМУМ (+1.Самара)
+#EXTGRP:РАДИО
+http://85.236.172.22:8000/maximum
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jxog71ia83f4a2uy58rh4/stream.jpg?rlkey=e7jmqyhor843dvekiot1q09wy&dl=0" tvg-id="stream", 101.3_STREAM (+1.Сергиевск)
+#EXTGRP:РАДИО
+http://radio.kuybisheva.keenetic.link:8000/online
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ovfnkoroedweadugixxaj/lite.jpg?rlkey=mb4o0oj17tn3u3tbsryhgabun&dl=0" tvg-id="lite", 102.2_Lite (+1.Сергиевск)
+#EXTGRP:РАДИО
+http://radio.kuybisheva.keenetic.link:8000/128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ow2jx48qrw4ialcaad0mr/avgust.jpg?rlkey=vqgd5hx8j1iuh5959j7u5u8gr&dl=0" tvg-id="avgust", 102.3_Август (+1.Тольятти)
+#EXTGRP:РАДИО
+http://listen9.myradio24.com/93191
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zmd1gjgy18kwor4m7lxz7/r106.9tolyatti.jpg?rlkey=1wx4qz6v6281fwumk5htjjrtw&dl=0" tvg-id="r106.9tolyatti", 106.9_Радио 106i9 (+1.Тольятти)
+#EXTGRP:РАДИО
+http://online.106i9fm.ru:8000/106i9_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/skourvl25rrkyp0914b7q/aprel.jpg?rlkey=pi2i9oiqepuykxf2gnpauag8l&dl=0" tvg-id="aprel", 100.7_Апрель (+1.Отрадный)
+#EXTGRP:РАДИО
+https://stream.radioapril.ru:8443/live.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t6wh0wtb918p9qj/moya_udmurtia.jpg" tvg-id="moya_udmurtia", 100.1_Моя Удмуртия (+1.Ижевск)
+#EXTGRP:РАДИО
+http://radio.myudm.ru:10010/efir
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/razj8sxnkmqvx11kirhua/adam104.5izevsk.jpg?rlkey=dzcz032v22fnl71q25u08oo2u&dl=0" tvg-id="adam104.5izevsk", 104.5_Adam (+1.Ижевск)
+#EXTGRP:РАДИО
+http://radio.izhlife.ru:8443/adam/256
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wag07725uot3sda90zh3r/smorodina.jpg?rlkey=qmeyz7l614npvbtme9z8dnik4&dl=0" tvg-id="smorodina", 106.8_Смородина (+1.Сарапул)
+#EXTGRP:РАДИО
+https://new.vobook.ru/http://188.170.122.238:5901/smorodina18
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rbpmmk741rix5v0ntpgxb/starplus.jpg?rlkey=dop2rx9tywo94dk8synlt88ah&dl=0" tvg-id="starplus", 100.4_StarPlus (+2.Лянтор)
+#EXTGRP:РАДИО
+https://starplus.servemp3.com:8443/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1vplcqth2raayqr9dncz6/oren-fm.jpg?rlkey=8lvbh5koftyt5ul0vhntxsq8b&dl=0" tvg-id="oren-fm", ОренFM (+2.Оренбург)
+#EXTGRP:РАДИО
+https://drh-node-02.dline-media.com/orenfmorenburg
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l1o7y22hhqiovvo/Planeta-879.jpg" tvg-id="Planeta-879", 87.9_Планета (+2.Оренбург)
+#EXTGRP:РАДИО
+http://fm.media56.ru:8000/Planeta
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/cac4rvwwubopsyb/sibir_89.3.jpg" tvg-id="sibir_89.3", 89.3_Сибирь (+2.Оренбург)
+#EXTGRP:РАДИО
+http://radio.omg56.ru:8000/Sibir_Oren
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fk8klqh95crer0ppf2yqc/europa100.8oren.png?rlkey=gylaebnjj1yq2y3hg4uoojtp2&dl=0" tvg-id="europa100.8oren", 100.8_Europa Plus (+2.Оренбург)
+#EXTGRP:РАДИО
+http://radio.omg56.ru:8000/Europa_plus_Oren
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rqtwcd5stcr8ur2/Retro_101.8_Orenburg.jpg" tvg-id="Retro_101.8_Orenburg", 101.8_Ретро (+2.Оренбург)
+#EXTGRP:РАДИО
+http://fm.media56.ru:8000/Retro
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/iacz9vdl9gc5v5r/avto_102.3_oren.jpg" tvg-id="avto_102.3_oren", 102.3_Авторадио (+2.Оренбург)
+#EXTGRP:РАДИО
+http://radio.omg56.ru:8000/Avto_Oren
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qzg5umooq0b3m3y/HIT_oren.jpg" tvg-id="HIT_oren", 103.0_ХИТ (+2.Оренбург)
+#EXTGRP:РАДИО
+http://radio.omg56.ru:8000/Hit_fm_Oren
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l233c161m0gm2qiwiwa1d/NRJ.jpg?rlkey=scp8om38xqcjdnefubhybjc8h&dl=0" tvg-id="NRJ", 103.7_NRJ (+2.Оренбург)
+#EXTGRP:РАДИО
+http://radio.omg56.ru:8000/NRJ_Oren
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1gju0oxbbxl8u8qo154z4/dfm.jpg?rlkey=0mox6rluuu6o9xjnxf9ksreud&dl=0" tvg-id="dfm", 104.3_D-fm (+2.Оренбург)
+#EXTGRP:РАДИО
+http://dotru.trkeurasia.ru:8000/dfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/g4rkra9w6u7h14f/MIR_oren.jpg" tvg-id="MIR_oren", 106.8_МИР (+2.Оренбург)
+#EXTGRP:РАДИО
+http://icecast.mir24.tv:8000/mir_orenburg
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/znd49s7jve19iew/Radio_HIT_orsk.jpg" tvg-id="Radio_HIT_orsk", 103.7_HIT (+2.Орск)
+#EXTGRP:РАДИО
+http://5.restream.one/482_1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9cw497kv8vz97g4zuvue1/r-1101.6ufa.jpg?rlkey=9f9n0lifzwgjj3cfr10k8gjxk&dl=0" tvg-id="r-1101.6ufa", 101.6_Радио №1 (+2.Уфа)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/Radio1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/pejop4x20w5uct5/roksana.gif" tvg-id="roksana", 103.0_Roksana (+2.Уфа)
+#EXTGRP:РАДИО
+https://listen1.myradio24.com/2761
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/spduwruffbqsbsa/sputnik-fm_107.gif" tvg-id="sputnik-fm_107", 107.0_Спутник (+2.Уфа)
+#EXTGRP:РАДИО
+https://radio.mediacdn.ru/sputnik_fm.mp3?5765
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/87uv0rlat8axu8e/aris.gif" tvg-id="aris", 102.5_Арис (+2.Кумертау)
+#EXTGRP:РАДИО
+http://195.191.78.200:8080/mp
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7b5ddkfqnqh4kja4llylw/privet105.2oktyabr.jpg?rlkey=xlp33n4use091capwcrve85ev&dl=0" tvg-id="privet105.2oktyabr", 105.2_Привет (+2.Октябрьский)
+#EXTGRP:РАДИО
+http://solfm.ru:8000/privetokt
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x4q3hxb0vqzp4t8il5ltw/remixfm104.4belorezk.jpg?rlkey=rwskmzuswc31p7bh8hn5sri34&dl=0" tvg-id="remixfm104.4belorezk", 104.4_Remix (+2.Белорецк)
+#EXTGRP:РАДИО
+http://rmx.amgradio.ru/RemixFM_beloreck
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ujpsk1lpkxdrtuxei5il2/bir102.3.jpg?rlkey=7qjsuwa0zkbace9v6q629i2h4&dl=0" tvg-id="bir102.3", 102.3_Бирь (+2.Бирск)
+#EXTGRP:РАДИО
+http://radio102.ru:8000/birskfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qtd47slad0uerw1nbgzbw/buraevo101.2.png?rlkey=a526zy3d4kxxoy514qxu4nt72&dl=0" tvg-id="buraevo101.2", 101.2_Бураево (+2.Бураево)
+#EXTGRP:РАДИО
+http://radio102.ru:8000/Burfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v7puh0k8te46j38msp1uo/ilish88.1.jpg?rlkey=bkfy3rpuo00kq6gc5v1kz7qid&dl=0" tvg-id="ilish88.1", 88.1_Илиш (+2.Верхнеяркеево)
+#EXTGRP:РАДИО
+http://radio102.ru:8000/Ilish
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ir5mwnm3jyapi19ob3hbf/durtuli104.4.jpg?rlkey=bm0v812ywxgfink3q724orfar&dl=0" tvg-id="durtuli104.4", 104.4_Дюртюли (+2.Дюртюли)
+#EXTGRP:РАДИО
+http://radio102.ru:8000/durfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9xf0ziqck0ixr1mbm5usd/ervel93.1.jpg?rlkey=96rxasagllajhrpxeux14v8sh&dl=0" tvg-id="ervel93.1", 93.1_Эрвел (+2.Мишкино)
+#EXTGRP:РАДИО
+http://radio102.ru:8000/ervel
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8tyh36uwpxb3hsb/bolid.gif" tvg-id="bolid", 88.0_Болид (+2.Пермь)
+#EXTGRP:РАДИО
+https://icecast-bulteam.cdnvideo.ru/bolid128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ivpdgdugoy07x92t25jz2/prikamie.jpg?rlkey=roifhom4909gxe39r5qrtrxha&dl=0" tvg-id="prikamie", 94.3_Прикамье (+2.Пермь)
+#EXTGRP:РАДИО
+http://skycaster.ru/8108/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hv12ahscbcb9xanwnwte/nostalgie_perm.png?rlkey=a38yz4dnn5hqbyspvdfb3w916&dl=0" tvg-id="nostalgie_perm", 101.5_NOSTALGIE (+2.Пермь)
+#EXTGRP:РАДИО
+https://icecast-bulteam.cdnvideo.ru/Nostalgie
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/sk9tgdne7xocmk5/pilot-fm-ekat.gif" tvg-id="pilot-fm-ekat", 103.6_ПИЛОТ (+2.Пермь)
+#EXTGRP:РАДИО
+https://online.permpilotfm.ru/PilotPerm128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m4bq0m34553qlicbfclar/alfa.jpg?rlkey=7ae9tx3ycdr3qo32lhkpyq3hy&dl=0" tvg-id="alfa", 104.1_Альфа (+2.Пермь)
+#EXTGRP:РАДИО
+http://online.alfafm.ru:8000/alfa_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/agb5vng3kyefn2zwh2qqq/impulsfm.jpg?rlkey=yh34h2m6ozqnin6eupf1kc05x&dl=0" tvg-id="impulsfm", Импульс (+2.Пермь)
+#EXTGRP:РАДИО
+https://impulsfm.ru/radio20
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e6tev0blkjsxoq7m9gn48/permjak96.3sol.jpg?rlkey=v9opmhdb7c8toug6rknnw6s6b&dl=0" tvg-id="permjak96.3sol", 96.3_Пермяк (+2.Соликамск)
+#EXTGRP:РАДИО
+http://radiopermyak.ru:8100/online128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bot05r8ldhrpuae56i0oy/sol99.1solikam.jpg?rlkey=4xv3k1qyqrcccj2tvmmyq9jc4&dl=0" tvg-id="sol99.1solikam", 99.1_Соль (+2.Соликамск)
+#EXTGRP:РАДИО
+http://62.16.41.97:8000/online320
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/obrxlouy3inom6p6t6cuc/sk100.5sol.jpg?rlkey=4qcvmhgym9jnrzagovk57slrm&dl=0" tvg-id="sk100.5sol", 100.5_SK (+2.Соликамск)
+#EXTGRP:РАДИО
+http://solikamskfm.ru:8000/
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kftwhizolyylb57oz6iai/ermak_kungur.jpg?rlkey=9uwhopfn1ez5lm8zwoksdpvgr&dl=0" tvg-id="ermak_kungur", 89.1_Ермак (+2.Кунгур)
+#EXTGRP:РАДИО
+http://strm.yandex.ru/kal/fm_ermak_kungur/fm_ermak_kungur0.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/r4yw4v7aq7l4g1v/pervoe_kungurskoe.gif" tvg-id="pervoe_kungurskoe", 100.3_Первое Кунгурское (+2.Кунгур)
+#EXTGRP:РАДИО
+http://1kradio.ru:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/phaytse5ru86g8s/2-berega.png" tvg-id="avtoradio", 92.6_Два Берега (+2.Березники)
+#EXTGRP:РАДИО
+http://2beregafm.ru:8100/ber_FM.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/s9rci7vc5v1ospc/beloe.gif" tvg-id="beloe", 96.6_Белое радио (+2.Березники)
+#EXTGRP:РАДИО
+http://89.250.214.162:8080/whiteradio.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/67i8ec618g22o2k591wao/diksi.png?rlkey=azt6wilvgr6gcqu8xohxgh3ed&dl=0" tvg-id="diksi", 102.8_DIXI (+2.Чайковский)
+#EXTGRP:РАДИО
+http://listen4.myradio24.com/dixi
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pitu1gx4rq0p4biagwvm9/klassfm.jpg?rlkey=h301ml8xi90yxxo95etu4lo3f&dl=0" tvg-id="klassfm", 89.2_KlassFM (+2.Лысьва)
+#EXTGRP:РАДИО
+http://strm.yandex.ru/kal/fm_klassfm/fm_klassfm0.m3u8
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co1zdknkb36fa87pvbpap/leto98.9ekb.jpg?rlkey=40fdopcv27slm4kgjp1nmhdmo&dl=0" tvg-id="leto98.9ekb", 98.9_Лето (+2 Екатеринбург)
+#EXTGRP:РАДИО
+https://online.radioletofm.ru/radioletofm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/sk9tgdne7xocmk5/pilot-fm-ekat.gif" tvg-id="pilot-fm-ekat", 100.4_ПИЛОТ (+2.Екатеринбург)
+#EXTGRP:РАДИО
+https://online.pilotfm.ru/pilot
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/q7p23wtq4jrbr13/jem_ekat.gif" tvg-id="jem_ekat", 102.5_Джем (+2.Екатеринбург)
+#EXTGRP:РАДИО
+http://online2.jamfm.ru:8000/jam
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dibm8w2blt4ftjs/rock_arsenal.gif" tvg-id="rock_arsenal", 104.5_Rock Arsenal (+2.Екатеринбург)
+#EXTGRP:РАДИО
+https://online.rockarsenal.ru/rockarsenal_aacplus
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3fwdnes2x9ua8qt/volna-fm.gif" tvg-id="volna-fm", 105.5_Волна (+2.Екатеринбург)
+#EXTGRP:РАДИО
+http://radio.volnafm.ru:8000/ekb
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9vl7a3saacx1n4c/sputnik107_eka.gif" tvg-id="sputnik107_eka", 107.0_Спутник (+2.Екатеринбург)
+#EXTGRP:РАДИО
+http://online.sputnik107.ru:8000/sputnik107
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/vuebqxj8rldcig9/gorod-fm.gif" tvg-id="gorod-fm", 107.6_Город (+2.Екатеринбург)
+#EXTGRP:РАДИО
+http://radio.gorodfm.ru:8000/gorodfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wydx3sgkb6vmw8l/vyshka.gif" tvg-id="vyshka", ВЫШКА (+2.Екатеринбург)
+#EXTGRP:РАДИО
+http://stream.vyshka24.ru/192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hnyscnpdurhn9nffikie2/arti.jpg?rlkey=oejajzxt4oo1hqhle4icvi4um&dl=0" tvg-id="arti", 103.5_Арти (+2.Арти)
+#EXTGRP:РАДИО
+http://fpsnew1.listen2myradio.com:2199/listen.php?port=8393&type=s1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nnjc57bj770qw8cnkiktm/interra.jpg?rlkey=3v6mk9byzhzmesanv2p41byhk&dl=0" tvg-id="interra", 97.5_Интерра (+2.Асбест)
+#EXTGRP:РАДИО
+http://ice.interra.fm:8000/barix
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y2cur0fq3yi87k879ol7m/lira.jpg?rlkey=hn62cgthppp8ln3a134ow8osq&dl=0" tvg-id="lira", 104.3_Лира (+2.Богданович)
+#EXTGRP:РАДИО
+http://listen4.myradio24.com/23737
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3fwdnes2x9ua8qt/volna-fm.gif" tvg-id="volna-fm", 96.7_Волна (+2.Новоуральск)
+#EXTGRP:РАДИО
+http://radio.volnafm.ru:8000/nov
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/u73okxrjjyxblb3/nvkfm.gif" tvg-id="nvkfm", 105.3_НВК (+2.Новоуральск)
+#EXTGRP:РАДИО
+http://5.199.192.107:8000/1
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/qrt1cg5r5daf6dg/n-radio.gif" tvg-id="n-radio", 107.9_Н радио (+2.Новоуральск)
+#EXTGRP:РАДИО
+http://178.47.34.174:8000/n-radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/byali0dfolhfhmq/real_fm.gif" tvg-id="real_fm", 103.4_Real (+2.Камышлов)
+#EXTGRP:РАДИО
+https://drh-node-01.dline-media.com/realfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/49vhty8kqs786g4/master-fm.gif" tvg-id="master-fm", 102.8_Мастер (+2.Качканар)
+#EXTGRP:РАДИО
+http://94.190.4.232:8000/Master.128
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/lyx2xi0erkdkqi6/ermak.png" tvg-id="gold-fm", 88.4_Ермак-Урал (+2.Кушва)
+#EXTGRP:РАДИО
+https://drh-node-02.dline-media.com/ermak_ural
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/msnt5phphokbzcs07ah7c/lagodat93.8kushva.jpg?rlkey=hoqfx4yaxbyn0xy3roluv3cmz&dl=0" tvg-id="lagodat93.8kushva", 93.8_Благодать (+2.Кушва)
+#EXTGRP:РАДИО
+https://82.146.46.30:8000/blagobarancha?nocache=1763043021786
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7hnhe68j9f4arv0p1kzxc/ecoradio.jpg?rlkey=q123yor771f3ndvp8d8lmb3nt&dl=0" tvg-id="ecoradio", 103.0_Экорадио (+2.Нижний Тагил)
+#EXTGRP:РАДИО
+http://online.ekoradio.ru/stream.mp3
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dw8jokkeiuefxicod3q2l/miama.jpg?rlkey=rd7vc5exvr3gspt0gil4w3isz&dl=0" tvg-id="miama", 94.0_Майяма (+2.Ревда)
+#EXTGRP:РАДИО
+http://31.28.117.14:8094/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jis0x6yrgm6kynlk0oyw9/belka.jpg?rlkey=lgz1hjq0592ll3pwmvhqzzni1&dl=0" tvg-id="belka", 96.7_Белка (+2.Заречный)
+#EXTGRP:РАДИО
+http://cast.belka-fm.ru:8000/bel2
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ont12jm2xfcy43rkfbayp/u-fm.jpg?rlkey=kcan0o03umzckf89pjg52mb79&dl=0" tvg-id="u-fm", 96.4_UFM-Уральская станция (+2.Алапаевск)
+#EXTGRP:РАДИО
+http://a7.radioheart.ru:8018/RH81253
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ebz0wy2m9pngywrr4cyqi/domashnee.jpg?rlkey=3jsg1gsme3gk1okncw8vzqk4w&dl=0" tvg-id="domashnee", 100.2_Домашнее (+2.Алапаевск)
+#EXTGRP:РАДИО
+http://83.234.148.77:8001/domashnee
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l791i28muqiapx8ra5afl/sable.jpg?rlkey=3lsdv2eu1tm6lp8xoc6yywdpn&dl=0" tvg-id="sable", 101.6_Сэйбл (+2.Сысерть)
+#EXTGRP:РАДИО
+http://91.197.207.171:8094/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rw6alalbfrpxgfq/radio_100.gif" tvg-id="radio_100", 100.0_Радио 100 (+2.Челябинск)
+#EXTGRP:РАДИО
+http://37.113.131.86:8000/100fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kx144mwpcijncnt/radio_kontinental.gif" tvg-id="radio_kontinental", 100.4_КОНТИНЕНТАЛЬ (+2.Челябинск)
+#EXTGRP:РАДИО
+http://stream01.radiocon.ru:8000/live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ab8fkrbphwe961v/inter_volna.gif" tvg-id="inter_volna", 102.9_INTER Волна (+2.Челябинск)
+#EXTGRP:РАДИО
+http://online.intervolna.ru:8001/radio192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8hwsfvg8sox3kzgbwiu5k/olimp.jpg?rlkey=gfr4w0lorwdajnoh6q127ptm6&dl=0" tvg-id="olimp", 104.5_Олимп (+2.Челябинск)
+#EXTGRP:РАДИО
+http://online.olimpfm.ru:8000/olimp_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ruo4i9oh2rluo88bmrc46/natasha.jpg?rlkey=eugbtan77t30epon8vip26una&dl=0" tvg-id="natasha", 98.3_Наташа (+2.Верхний Уфалей)
+#EXTGRP:РАДИО
+http://radioufaley.ru/natasha
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/idgpafxkrcko46ip3xvjg/pause.jpg?rlkey=2cp1skc5y49p4whd7gd6q2rft&dl=0" tvg-id="pause", 99.0_Пауза (+2.Верхний Уфалей)
+#EXTGRP:РАДИО
+https://radioufaley.ru/pause
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gjmbr3z5bax7den4ns12e/varnenskoe.jpg?rlkey=cv5wnry5kajilt498gpjchh29&dl=0" tvg-id="varnenskoe", 100.6_Варненское радио (+2.Варна)
+#EXTGRP:РАДИО
+http://air.varnaradio.ru:8000/hd
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/me0164p9ko2cpjr/rebyachya-respublika.gif" tvg-id="rebyachya-respublika", 89.2_Ребячья Республика (+2.Тюмень)
+#EXTGRP:РАДИО
+http://live.radio7.su:9000/deti256
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/gwel09sk8ncig2f/citi.png" tvg-id="citi", 100.6_Радио Сити (+2.Тюмень)
+#EXTGRP:РАДИО
+http://online.100i6fm.ru:8000/city_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7wsuukglurhdie8/krasnaya_armiya.gif" tvg-id="krasnaya_armiya", 104.6_Красная Армия (+2.Тюмень)
+#EXTGRP:РАДИО
+http://live.rzs.ru/ka.128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/zmyxspdh4u3f4ql/dipolfm.gif" tvg-id="dipolfm", 105.6_DIPOL (+2.Тюмень)
+#EXTGRP:РАДИО
+http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/7sw5w2kgaleqmg2/ugra-fm.gif" tvg-id="ugra-fm", 107.4_Югра (+2.Тюмень)
+#EXTGRP:РАДИО
+http://ugra.cdnradio.ru/radiougra
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/eyqj510whfyg7f6/zaoblakami.gif" tvg-id="zaoblakami", 101.5_За Облаками (+2.Курган)
+#EXTGRP:РАДИО
+http://195.88.63.114:8000/zaoblakami
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/cbhwc55tvvmjmvz/sigmaradio.gif" tvg-id="sigmaradio", 102.3_Сигма (+2.Новый Уренгой)
+#EXTGRP:РАДИО
+http://radio.sigma-ktv.ru:8000/sigma
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/esk62y0jsg6jk2qke4d2h/radio-nadym.png?rlkey=mo61lpu5djsnpzntimq9ghaso&dl=0" tvg-id="radio-nadym", 105.7_Надым
+#EXTGRP:РАДИО
+http://icecast-trknadym.cdnvideo.ru/trknadym_radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aui4z4df9ne94nn/radio3.gif" tvg-id="radio3", 103.5_Радио 3 (+3.Омск)
+#EXTGRP:РАДИО
+http://81.23.194.18:8010/radio3.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/yp170kcauf4hdb9/uniton.gif" tvg-id="uniton", 100.7_Юнитон (+4.Новосибирск)
+#EXTGRP:РАДИО
+https://online.uniton.ru/uniton
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t28l5h02wu8w8yc/gor-volna.gif" tvg-id="gor-volna", 101.4_Городская Волна (+4.Новосибирск)
+#EXTGRP:РАДИО
+http://online.gorvolna.ru:8000/gorvolna
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/cq6r2esmsapxb1i/radio_54.gif" tvg-id="radio_54", 106.2_Радио 54 (+4.Новосибирск)
+#EXTGRP:РАДИО
+http://91.202.68.50:8000/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n18ee6yn9my6nd84t1817/altayfm.jpg?rlkey=ql7fnf72p6nzz3s1dt8jrh4jb&dl=0" tvg-id="altayfm", 102.4_Алтай (+4.Чемал)
+#EXTGRP:РАДИО
+http://146.158.96.114:8000/control
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/petm2jgjjlmiayx1ckdir/chemal.jpg?rlkey=jw00flkhcr46e0x0or74sm7be&dl=0" tvg-id="chemal", 103.6_Чемал (+4.Чемал)
+#EXTGRP:РАДИО
+http://91.235.95.86:8000/radiochemal
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u3x1182csdb4scqejioka/heart-fm.gif?rlkey=5gao25fxy41fo33izun730e99&dl=0" tvg-id="heart-fm", 105.9_Heart-FM (+4.Барнаул)
+#EXTGRP:РАДИО
+https://radio.gtrk22.ru/heartfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g1x41gg3b8u4u728yjqr3/a-radio.jpg?rlkey=tvk1b16eyjvgwgy8d2voz8r0i&dl=0" tvg-id="a-radio", 101.8_А-Радио (+4.Алейск)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/aradio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rlsohpxdkubyygmu4h6j/mae.jpg?rlkey=xv01i94qbmj41lxu5d8jlf1j9&dl=0" tvg-id="mae", 104.4_МаЁ радио (+4.Асино)
+#EXTGRP:РАДИО
+http://92.125.32.187:8080/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v9a8bf3gnjvame2unpor9/kuzbass-fm.gif?rlkey=ija7kzcsu0r789pgn8rvrmru8&dl=0" tvg-id="kuzbass-fm", 91.0_Кузбасс (+4.Кемерово)
+#EXTGRP:РАДИО
+http://212.75.194.94:8000/KuzbassFM
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t00mlrfe4i1o7vvofw5yh/apeks-radio.gif?rlkey=2ya70vm58iiqnvn7isn0h0alz&dl=0" tvg-id="apeks-radio", 101.0_Апекс-радио (+4.Кемерово)
+#EXTGRP:РАДИО
+http://62.152.59.3:8000/kem
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qd4vv6x3e2pndn7ygg0vu/prokopievsk.jpg?rlkey=hu9tvjo3w08q1jv196whgv7d2&dl=0" tvg-id="prokopievsk", 107.4_Прокопьевск
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/Radio_Prokopyevsk
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ok2svn97p92izkoi164dl/kvant101.8.jpg?rlkey=a7bspwf3kr1z6tvm0fqml1qt0&dl=0" tvg-id="kvant101.8", 101.8_Квант (+4.Междуреченск)
+#EXTGRP:РАДИО
+https://proxy.hypermatic.com/http://radio.rikt.ru:8000/trk-kvant
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bj7c2pjffcfpqwsa45d99/schoria.jpg?rlkey=nnmyf02xjbdahthjucw95ea5u&dl=0" tvg-id="schoria", 107.5_Шория (+4.Таштагол)
+#EXTGRP:РАДИО
+http://193.254.227.55:8000/Shoria192
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/jxz2ks3ptdeu6z4/hakasia-fm.gif" tvg-id="hakasia-fm", 91.5_Хакасия (+4.Абакан)
+#EXTGRP:РАДИО
+http://radio.tvrts.ru:8000/kh.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ozgcfow0zir9bd0/krasn-fm.gif" tvg-id="krasn-fm", 96.2_Красноярск
+#EXTGRP:РАДИО
+https://online.krasnoyarskfm.ru/krasnoyarskfm_mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z5oayue5rvgvzjxt3osga/krasnoyarsk_glavniy.jpg?rlkey=4gy2lvgvoa3j6vejc0xws4cum&dl=0" tvg-id="krasnoyarsk_glavniy", 102.8_Красноярск главный (+4.Красноярск)
+#EXTGRP:РАДИО
+http://streamer01.1028.fm:8443/arstream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/8npimbapzz6zdk5/piramida.gif" tvg-id="piramida", 103.5_Пирамида (+4.Назарово)
+#EXTGRP:РАДИО
+http://91.211.56.218:8080/piramida/nazarovo
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b1ipfgzayw02hn75xoook/udachnoe102.7nizhneud.png?rlkey=vqx9n14bjan7b90uop319k9ag&dl=0" tvg-id="udachnoe102.7nizhneud", 102.7_Удачное радио (+5.Нижнеудинск)
+#EXTGRP:РАДИО
+http://185.14.69.136:8000/radioNUD
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2o663ala1ll8fbn8k0r5z/udaloe.jpg?rlkey=k8ea9hrecer9dd4jwawfsb3jr&dl=0" tvg-id="udaloe", 104.1_Удалое радио (+5.Нижнеудинск)
+#EXTGRP:РАДИО
+http://l29.no-ip.org:8002/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0hrk7qj8clx1l0ffqkrxa/otlichnoe.jpg?rlkey=46bxwigzreqb0dy9z2nq9cm1f&dl=0" tvg-id="otlichnoe", 105.6_Отличное радио (+5.Нижнеудинск)
+#EXTGRP:РАДИО
+http://l29.no-ip.org:8003/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8x3e0aqstrcyx98vwh1tx/otlichnoe-radio.png?rlkey=e68ehx680s4ga7ywur0tbr6q9&dl=0" tvg-id="otlichnoe-radio", 104.0_Тайшет
+#EXTGRP:РАДИО
+http://171.22.213.138:8002/;
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sst6a9mqzgucny9dm38hl/lena.jpg?rlkey=rjtf7mmb34nf0cs9byjeokfh2&dl=0" tvg-id="lena", 105.5_Лена (+5.Усть-Кут)
+#EXTGRP:РАДИО
+http://60500.ru:8000/lenafm256.ogg
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n5ajyd4tbhthejp3d292y/mcm88.8ulan.jpeg?rlkey=lfvgsaabk1g7zhwsk5akkz3mx&dl=0" tvg-id="mcm88.8ulan", 88.8_mCm (+5.Улан-Удэ)
+#EXTGRP:РАДИО
+http://drh-connect.dline-media.com/radiomcm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/yz80qj1smrm0l4q/buryad_fm.gif" tvg-id="buryad_fm", 90.8_Buryad (+5.Улан-Удэ)
+#EXTGRP:РАДИО
+http://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y6jxe0jqnkxfui35yms7j/barguzin104.6.jpg?rlkey=g82kxefn9ogmna7oxpz7w4t2z&dl=0" tvg-id="barguzin104.6", 104.6_Баргузин (+5.Улан-Удэ)
+#EXTGRP:РАДИО
+http://baikal-media.ru:8000/barguzin-fm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/l6k6j3cqvrshbk7/volni_baikala.gif" tvg-id="volni_baikala", 103.3_Волны Байкала (+5.Северобайкальск)
+#EXTGRP:РАДИО
+http://31.134.47.205:8000/;stream.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ik2163wme8er218bm3bqv/victoria103.1.png?rlkey=n0dpoaneoekyijc9ww2y082k0&dl=0" tvg-id="victoria103.1", 103.1_Виктория (+6.Якутск)
+#EXTGRP:РАДИО
+http://37.139.33.202:8000/streamru.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ik2163wme8er218bm3bqv/victoria103.1.png?rlkey=n0dpoaneoekyijc9ww2y082k0&dl=0" tvg-id="victoria103.1", 104.5_Виктория-Саха (+6.Якутск)
+#EXTGRP:РАДИО
+http://37.139.33.202:8000/stream.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/u70zdiu4r7vuuvi/stv-radio.gif" tvg-id="stv-radio", 105.7_СТВ Радио (+6.Якутск)
+#EXTGRP:РАДИО
+http://stv-radio.ru:8000/STV-Radio128k
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/jdtsrc8p5d2qgnu/radio-sakha.gif" tvg-id="radio-sakha", 107.1_САХА (+6.Якутск)
+#EXTGRP:РАДИО
+https://icecast-saha.cdnvideo.ru/saha
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kl5mow2h1hmd2rj/radio_gora.gif" tvg-id="radio_gora", 99.5_Радиогора (+6.Алдан)
+#EXTGRP:РАДИО
+https://skycaster.ru/8114/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5fgwd4qgg0dvx7bbrc6un/skaj.jpg?rlkey=q966ln6axy7ouc67ocn1sz8mj&dl=0" tvg-id="skaj", 105.5_Sky (+6.Алдан)
+#EXTGRP:РАДИО
+http://s0.radioheart.ru:8000/RH20436
+
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y4qkdjbzmr28xbwkfwius/vilyuy.jpg?rlkey=uxc68fs8mbuwj0qswent3a35j&dl=0" tvg-id="vilyuy", 103.1_Вилюй
+#EXTGRP:РАДИО
+https://listen.myrh.ru/id054504
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/agb5vng3kyefn2zwh2qqq/impulsfm.jpg?rlkey=yh34h2m6ozqnin6eupf1kc05x&dl=0" tvg-id="impulsfm", 100.0_Импульс (+6.Кюбеме)
+#EXTGRP:РАДИО
+https://impulsfm.ru/radio5
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/98vlbxfxhlu6kscoptygn/almazniy_krai.gif?rlkey=bycqflsardeixu54vqc3tqg4r&dl=0" tvg-id="almazniy_krai", 102.4_Алмазный край (+6.Мирный)
+#EXTGRP:РАДИО
+http://stream.almaz-media.tv/radio
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ivbl0capl3kn9jb/birobidzhan.gif" tvg-id="birobidzhan", 87.7_FM-Биробиджан
+#EXTGRP:РАДИО
+http://31.173.143.103:8000/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wrmi25wh9fibzig/fmkhabarovsk.gif" tvg-id="fmkhabarovsk", 101.8_Радио хорошего настроения (+7.Хабаровск)
+#EXTGRP:РАДИО
+http://188.93.129.110:8000/fm1018
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/d3wpcx881l1kzgg/mix-fm-102-7.gif" tvg-id="mix-fm-102-7", 102.7_MIX (+7.Хабаровск)
+#EXTGRP:РАДИО
+http://radio.gubernia.com:8000/radio3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/v1fv5ad70yqavb8/vostok-rus.gif" tvg-id="vostok-rus", 103.7_Восток России (+7.Хабаровск)
+#EXTGRP:РАДИО
+http://radiovostok.hopto.org
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/13knwstj9uznp9h/radio2.gif" tvg-id="radio2", 106.3_Радио 2 (+7.Комсомольск-на-Амуре)
+#EXTGRP:РАДИО
+http://212.19.18.133:8000/stream
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bd7w9hdfttfkpyx1903uv/vlad106.4.vlad.jpg?rlkey=8ipo6r7nigh0px9660poyw264&dl=0" tvg-id="vlad106.4.vlad", 106.4_Владивосток
+#EXTGRP:РАДИО
+https://stream.pari-radio.ru/vfm
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nh2fm4pr4opn98d4nnyca/PDR.jpg?rlkey=xhvkfh9n9md47fasxc5glg12g&dl=0" tvg-id="PDR", Первое Дальневосточное радио (+7.Владивосток)
+#EXTGRP:РАДИО
+https://stream.pari-radio.ru/1dv.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wm5ah1hv8d0uqfn/prim-volna.png" tvg-id="prim-volna", 100.4_Приморская Волна (+7.Артем)
+#EXTGRP:РАДИО
+http://inhold.org:8000/primvolna-artem
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/02c9374nbn62wbb/avn-artem.gif" tvg-id="avn-artem", 101.0_AVN (+7.Артем)
+#EXTGRP:РАДИО
+http://77.34.60.115:13838/AVN
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ssldbj1bc5p1gaeqvnf2u/25reg93.4spsssk.jpg?rlkey=fpnl452phzrt3oyp7g02kctla&dl=0" tvg-id="25reg93.4spsssk", 93.4_25 регион (+7.Спасск-Дальний)
+#EXTGRP:РАДИО
+http://aska.ru-hoster.com:8024/25Region_live
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h979p1fajdaj16wgbo5xw/astv.jpg?rlkey=5tej74fjtd632vrx7pb5bvyvm&dl=0" tvg-id="astv", 105.5_АСТВ (+8.Южно-Сахалинск)
+#EXTGRP:РАДИО
+https://stream.astv.ru/stream.mp3
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ci6wxucbglzjsvi/karibu-art.gif" tvg-id="karibu-art", 104.2_Карибу-Арт (+8.Магадан)
+#EXTGRP:РАДИО
+http://online.karibu.ru:80/Karibu-Art
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kw1998mf8q83qip/kolima.png" tvg-id="kolima", 107.5_Колыма (+8.Магадан)
+#EXTGRP:РАДИО
+http://icecast-kolymaplus.cdnvideo.ru/kolyma
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0xdlbfaby25gpwpj5c1pn/cv105.5kamchatka.jpg?rlkey=l5misw5nplmqgcqst0x9sio4e&dl=0" tvg-id="cv105.5kamchatka", 105.5_Камчатка
+#EXTGRP:РАДИО
+https://a8.radioheart.ru:9026/RH75315
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uplkh1s7tmtjvqtowu0yb/lavina.png?rlkey=c7yvbr2yvso5afc1boy676iwv&dl=0" tvg-id="lavina", Лавина (+9.Петропавловск-Камчатский)
+#EXTGRP:РАДИО
+http://77.82.81.160:8001/radio_mount
+
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9h3iftfqku4wtbg/purga-radio.gif" tvg-id="purga-radio", 102.8_ПУРГА (+9.Анадырь)
+#EXTGRP:РАДИО
+http://radiopurga.online:8000/live
