@@ -1,0 +1,20 @@
+name: Update Dropbox Playlist
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Каждые 6 часов
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Download from Dropbox
+        run: |
+          curl -L -o TV_radio.m3u8 "https://dl.dropboxusercontent.com/s/i1zplnjsivgm5cb/TV_radio.m3u8"
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add TV_radio.m3u8
+          git commit -m "Update playlist" || exit 0
+          git push
