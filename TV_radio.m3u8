@@ -570,11 +570,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 
-#EXTINF:0,RU TV
-#EXTGRP:ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-
 #EXTINF:0,Новое радио FHD
 #EXTGRP:ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
@@ -584,11 +579,6 @@ http://hls-video01.cdnvideo.ru/video01/video01_480.sdp/playlist.m3u8
 #EXTGRP:ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 http://194.143.148.28:8080/MCM/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Viva HD
-#EXTGRP:ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://hlss.goodgame.ru/hls/180805.m3u8
 
 #EXTINF:0,MIXM TV
 #EXTGRP:ТВ
@@ -644,11 +634,6 @@ https://tosnotv.ru/hlsshare/video.m3u8
 #EXTGRP:ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-
-#EXTINF:0,Таврия ТВ
-#EXTGRP:ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.31.1 (AndroidTV/7.1.1) HlsWinkPlayer
-http://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
 
 #EXTINF:0,Новгородское областное телевидение
 #EXTGRP:ТВ
@@ -1670,11 +1655,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 #EXTVLCOPT:network-caching=1000
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
 
-#EXTINF:0,Redcom TV
-#EXTGRP:ТВ
-#EXTVLCOPT:network-caching=1000
-https://camcity.redcom.ru/Redcams/index.m3u8
-
 #EXTINF:0,Восток 24
 #EXTGRP:ТВ
 #EXTVLCOPT:network-caching=1000
@@ -1805,10 +1785,6 @@ http://new.bezhintercomp.ru:8080/hls/cam21/index.m3u8
 
 #EXTINF:0,Архангельск
 #EXTGRP:WEB-камера
-http://s3.moidom-stream.ru/s/public/0000091929.m3u8
-
-#EXTINF:0,Архангельск
-#EXTGRP:WEB-камера
 http://dvr5.astrakhan.ru/cheh-103-hd-1/index.m3u8
 
 #EXTINF:0,Архангельск
@@ -1843,14 +1819,6 @@ https://cctvstreamer2.sv-en.ru:4430/hls/8193426/3e381500a65d6f95cb40/playlist.m3
 #EXTGRP:WEB-камера
 https://cctv-dd-intercom.aisgorod.ru/ipcam_DD_WaterIntake/index.m3u8
 
-#EXTINF:0,Саранск
-#EXTGRP:WEB-камера
-http://s2.moidom-stream.ru/s/public/0000090621.m3u8
-
-#EXTINF:0,Саранск
-#EXTGRP:WEB-камера
-http://s2.moidom-stream.ru/s/public/0000090623.m3u8
-
 #EXTINF:0,Иваново
 #EXTGRP:WEB-камера
 https://node1videokontrol.icomtel.ru:18080/hls/10920042/2bae40862e062dc9353a/playlist.m3u8
@@ -1859,25 +1827,9 @@ https://node1videokontrol.icomtel.ru:18080/hls/10920042/2bae40862e062dc9353a/pla
 #EXTGRP:WEB-камера
 https://node1videokontrol.icomtel.ru:18080/hls/10919990/1df135a7f98c14c108c7/playlist.m3u8
 
-#EXTINF:0,Калуга
-#EXTGRP:WEB-камера
-https://cam-kaluga.saferegion.net/pj2d-5hH/chunks.m3u8
-
 #EXTINF:+1,Банное
 #EXTGRP:WEB-камера
 http://video-mgn.freedom1.ru/mgn.glc-bannoe/index.m3u8
-
-#EXTINF:0,+2.Надым
-#EXTGRP:WEB-камера
-http://s3.moidom-stream.ru/s/public/0000092430.m3u8
-
-#EXTINF:0,+2.Казань
-#EXTGRP:WEB-камера
-http://cdn.universmotri.ru/ipcam/cam34.stream/playlist.m3u8
-
-#EXTINF:0,+2.Казань
-#EXTGRP:WEB-камера
-http://cdn.universmotri.ru/ipcam/cam39.stream/playlist.m3u8
 
 #EXTINF:0,+2.Оренбург (ул.Советская-Памятник Чкалову)
 #EXTGRP:WEB-камера
@@ -1934,10 +1886,6 @@ http://gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8
 #EXTINF:0,+2.Гай
 #EXTGRP:WEB-камера
 http://gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8
-
-#EXTINF:0,+2.Екатеринбург
-#EXTGRP:WEB-камера
-https://cctv-sa2-b2b.ekat.ertelecom.ru:18080/hls/41086261/fe9478f4bdb0de7f23eb/playlist.m3u8
 
 #EXTINF:0,+2.Екатеринбург
 #EXTGRP:WEB-камера
