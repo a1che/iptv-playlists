@@ -1767,26 +1767,6 @@ http://hls.all-sbor.net/hls/cam5/playlist.m3u8
 #EXTGRP:WEB-камера
 http://hls.all-sbor.net/hls/cam3/playlist.m3u8
 
-#EXTINF:0,С-Пб (Кингисепп)
-#EXTGRP:WEB-камера
-http://flussonic.king-online.ru/camera02/index.m3u8
-
-#EXTINF:0,Карелия (Петрозаводск)
-#EXTGRP:WEB-камера
-http://s2.moidom.karelia.pro/s/public/0000001471.m3u8
-
-#EXTINF:0,Карелия (Петрозаводск)
-#EXTGRP:WEB-камера
-http://s3.moidom.karelia.pro/s/public/0000000521.m3u8
-
-#EXTINF:0,Карелия (Петрозаводск)
-#EXTGRP:WEB-камера
-http://s2.moidom.karelia.pro/s/public/0000001383.m3u8
-
-#EXTINF:0,Карелия (Петрозаводск)
-#EXTGRP:WEB-камера
-http://s2.moidom.karelia.pro/s/public/0000001391.m3u8
-
 #EXTINF:0,Москва
 #EXTGRP:WEB-камера
 http://ipcamstream2.inetcom.ru/hls/camera12_2.m3u8
@@ -1811,68 +1791,9 @@ http://ipcamstream2.inetcom.ru/hls/camera12_8.m3u8
 #EXTGRP:WEB-камера
 http://ipcamstream2.inetcom.ru/hls/camera12_3.m3u8
 
-#EXTINF:0,Москва
-#EXTGRP:WEB-камера
-
 #EXTINF:0,Краснодар
 #EXTGRP:WEB-камера
 http://flussonic2.powernet.com.ru:8080/user177799/tracks-v1/mono.m3u8?token=dont-panic-and-carry-a-towel
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-mamayka/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-kukuruza-plyaz/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://cam.dtel.ru/cam-lazar-gost-srorm/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://cam.dtel.ru/cam-lazar-gk-topol-naberejnaya/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-avtomobilist-ptz/tracks-v1a1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-Electronic-ptz/tracks-v1/index.m3u8
-
-#EXTINF:0,Сочи
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-partizanskaya15/tracks-v1/index.m3u8
-
-#EXTINF:0,Лазаревское
-#EXTGRP:WEB-камера
-https://cam.dtel.ru/cam-lazar-gost-storm-veranda/index.m3u8
-
-#EXTINF:0,Сириус
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-redisson-ptz/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:0,Геленджик
-#EXTGRP:WEB-камера
-https://webcam.admgel.ru/Naberzhnaya4/index.m3u8
-
-#EXTINF:0,Дагомыс
-#EXTGRP:WEB-камера
-https://lk.dtel.ru/cam/cam_d37_dagomys_sea/tracks-v1/mono.m3u8
-
-#EXTINF:0,Хоста
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-mysvidnyi-PTZ/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:0,Хоста
-#EXTGRP:WEB-камера
-https://fl.tvintel.info:8443/mix-Electronic-ptz/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:0,Балашиха
 #EXTGRP:WEB-камера
