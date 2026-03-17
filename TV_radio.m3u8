@@ -1330,11 +1330,6 @@ https://sitv.ru/hls/s861024.m3u8
 #EXTVLCOPT:network-caching=1000
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
 
-#EXTINF:0,Сургут 24
-#EXTGRP:ТВ
-#EXTVLCOPT:network-caching=1000
-http://video1.in-news.ru/c24/index.m3u8
-
 #EXTINF:0,Ugra Travel
 #EXTGRP:ТВ
 #EXTVLCOPT:network-caching=1000
@@ -1939,21 +1934,9 @@ http://hls.m-ten.ru:8080/hls/12/live.m3u8
 #EXTGRP:WEB-камера
 http://hls.m-ten.ru:8080/hls/6/live.m3u8
 
-#EXTINF:0,+4.Новокузнецк
-#EXTGRP:WEB-камера
-http://ipcam.rdtc.ru/ipcam/ipcam_13/tracks-v1/mono.m3u8
-
-#EXTINF:0,+4.Новокузнецк
-#EXTGRP:WEB-камера
-http://ipcam.rdtc.ru/ipcam/ipcam_5/tracks-v1/mono.m3u8
-
 #EXTINF:0,+4.Барнаул
 #EXTGRP:WEB-камера
 https://live.katun24.ru:8082/port_ptz/index.m3u8
-
-#EXTINF:0,+4.Барнаул
-#EXTGRP:WEB-камера
-https://live.katun24.ru:8082/Most_Rynok/tracks-v1/mono.m3u8
 
 #EXTINF:0,+4.Барнаул
 #EXTGRP:WEB-камера
@@ -1978,10 +1961,6 @@ https://video1.dsi.ru:8091/hls/15736358/896208525f35dcf56269/playlist.m3u8
 #EXTINF:0,+5.Улан-Удэ
 #EXTGRP:WEB-камера
 http://stream.trafjam.ru/cam11_site/tracks-v1/mono.m3u8
-
-#EXTINF:0,+5.Улан-Удэ
-#EXTGRP:WEB-камера
-http://stream.trafjam.ru/cam3_site/tracks-v1/mono.m3u8
 
 #EXTINF:0,+5.Братск
 #EXTGRP:WEB-камера
@@ -2109,7 +2088,7 @@ http://hermitage.hostingradio.ru/hermitage128.mp3
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/1jcw9tkg8wrpgsp/vanya.gif" tvg-id="vanya", 90.6_ВАНЯ (СПб)
 #EXTGRP:РАДИО
-https://icecast-radiovanya.cdnvideo.ru/radiovanya
+http://78.140.208.20:8801/rv_spb
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l233c161m0gm2qiwiwa1d/NRJ.jpg?rlkey=scp8om38xqcjdnefubhybjc8h&dl=0" tvg-id="NRJ", 95.0_NRJ (СПб)
 #EXTGRP:РАДИО
@@ -2275,7 +2254,7 @@ http://listen2.myradio24.com:9000/8286?2
 #EXTGRP:РАДИО
 http://hibinyfm.tlset.ru:8100/
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/grhcvirqsamio35/sever_87.5.jpeg" tvg-id="sever_87.5", 87.5_Север (Североморск)
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/grhcvirqsamio35/sever_87.5.jpeg" tvg-id="sever_87.5", 87.5_Север (Североморск)
 #EXTGRP:РАДИО
 http://radio.mediacdn.ru/sever
 
@@ -2287,7 +2266,7 @@ http://ic.radio10.live/stream.mp3
 #EXTGRP:РАДИО
 http://93.190.204.101:8000/live_100_4.mp3
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/crkdymiej0qsl6e4gpy2b/vtorvolna102.3kostom.jpg?rlkey=641odpb690ugdmwo4aq833wr3&dl=0" tvg-id="vtorvolna102.3kostom", 102.3_Вторая волна (Костомукша)
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/crkdymiej0qsl6e4gpy2b/vtorvolna102.3kostom.jpg?rlkey=641odpb690ugdmwo4aq833wr3&dl=0" tvg-id="vtorvolna102.3kostom", 102.3_Вторая волна (Костомукша)
 #EXTGRP:РАДИО
 http://93.190.204.101:8000/live_102_3.mp3
 
@@ -2295,7 +2274,7 @@ http://93.190.204.101:8000/live_102_3.mp3
 #EXTGRP:РАДИО
 https://online.guberniya.tv:8443/32radio
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/befckwiqlwqqhsz3z6kf6/avtodor90.9tver.jpg?rlkey=e6tno3qk5qvk6rzfpj5x0jiiw&dl=0" tvg-id="avtodor90.9tver", 90.9_Автодор (Тверь)
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/befckwiqlwqqhsz3z6kf6/avtodor90.9tver.jpg?rlkey=e6tno3qk5qvk6rzfpj5x0jiiw&dl=0" tvg-id="avtodor90.9tver", 90.9_Автодор (Тверь)
 #EXTGRP:РАДИО
 http://avtodor-tr.hostingradio.ru/avtodortr128.mp3
 
@@ -2341,7 +2320,7 @@ http://control1.craftradio.ru:8000/stream02
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/73v64iqba5drw647vod1a/rfm88.3belgorod.png?rlkey=tlbstcagmof67jxu48f60k1cj&dl=0" tvg-id="rfm88.3belgorod", 88.3_RFM (Белгород)
 #EXTGRP:РАДИО
-https://h0.radiofreemusic.ru/hls/128.m3u8
+http://msk1.radio-holding.ru:9000/rfm
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/znve3kdsl1pa6kt/marusia_fm.gif" tvg-id="marusia_fm", 91.4_Маруся (Белгород)
 #EXTGRP:РАДИО
@@ -2409,7 +2388,7 @@ http://stream2.ruhit.fm:9000/19_ruhit_128_reg_1
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/vfpqvflkb3eulv2/serebr100.1moskva.jpg" tvg-id="serebr100.1moskva", 100.1_Серебряный дождь (МСК)
 #EXTGRP:РАДИО
-http://213.59.4.27:8000/silver128.mp3
+http://s0.radioheart.ru:8000/ird
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/rbtnehs6rp3bgnl/ZharaFM100.5.jpg" tvg-id="ZharaFM100.5", 100.5_ЖАРА (МСК)
 #EXTGRP:РАДИО
@@ -2429,7 +2408,7 @@ https://montecarlo.hostingradio.ru/montecarlo128.mp3
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/9yukanxqu6kjuhz/comedy102.5mos.jpg" tvg-id="comedy102.5mos", 102.5_Comedy (МСК)
 #EXTGRP:РАДИО
-http://pub0101.101.ru:8000/stream/air/aac/64/202
+http://media-ice.radiodns.ru/hls/comedy_hifi/index.m3u8
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ud1t46n01nzt9pv/Shanson_103.0_Moskva.jpg" tvg-id="Shanson_103.0_Moskva", 103.0_Шансон (МСК)
 #EXTGRP:РАДИО
@@ -2471,7 +2450,7 @@ http://radio.mvd.ru:8000/mv128.mp3
 #EXTGRP:РАДИО
 https://a7.radioheart.ru:9008/radionoginsk
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wag07725uot3sda90zh3r/smorodina.jpg?rlkey=qmeyz7l614npvbtme9z8dnik4&dl=0" tvg-id="smorodina", 103.9_Смородина (Купавна)
+---#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wag07725uot3sda90zh3r/smorodina.jpg?rlkey=qmeyz7l614npvbtme9z8dnik4&dl=0" tvg-id="smorodina", 103.9_Смородина (Купавна)
 #EXTGRP:РАДИО
 http://drh-connect.dline-media.com/smorodina
 
@@ -2612,10 +2591,6 @@ http://46.151.241.221:8080/;stream.nsv
 #EXTGRP:РАДИО
 http://s0.radioheart.ru:8000/RH41064
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3pl2txpauvg4durn72jq5/podsolnuh102.9kor.png?rlkey=n09hk50b6vllhbjm87vod6jwi&dl=0" tvg-id="podsolnuh102.9kor", 102.9_Подсолнух (Кореновск)
-#EXTGRP:РАДИО
-http://live.podsolnuh.media:8000/radio
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pntqohgnb4e0e92nbrcd5/labinsk.jpg?rlkey=8r0kv7wkwr1xq3aqh5783rukv&dl=0" tvg-id="labinsk", 88.6_Лабинск (Усть-Лабинск)
 #EXTGRP:РАДИО
 http://online.radiolabinsk.ru:8000/Stream
@@ -2704,25 +2679,13 @@ https://play.sas-media.ru/play_256
 #EXTGRP:РАДИО
 http://s07.radio-tochka.com:6455/;stream.nsv
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/hwemzkdqiu4cpj5/svoe-fm-stavropolskii.png" tvg-id="svoe-fm-stavropolskii", 104.7_Своё (Ставрополь)
-#EXTGRP:РАДИО
-https://radiopotok2.online/node0.craftradio.ru:8000/61_AC75D71D
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3lhd51dl2y4dk7miq42pv/provincia100.9.jpg?rlkey=qodc82no21ja2fznp3v0id8or&dl=0" tvg-id="provincia100.9", 100.9_Провинция (Пятигорск)
 #EXTGRP:РАДИО
 http://s0.radioheart.ru:8000/RH72522
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/dvuwhmmt2vd49w2/tm-26.png" tvg-id="tm-26", 107.8_ТМ-26 (Кочубеевское)
-#EXTGRP:РАДИО
-http://listen7.myradio24.com:9000/58828
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/obvj7r86udtu19elujujd/vizavi-fm.png?rlkey=lab2hfkvbvvznc4zm04jcu78a&dl=0" tvg-id="vizavi-fm", 102.2_Визави (Невинномысск)
 #EXTGRP:РАДИО
 http://94.250.249.126:8000/radio
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dfj4szg6jtmmaldtabz3o/kbr.jpg?rlkey=f0g2ennnsgkspkadkkkjn37jv&dl=0" tvg-id="kbr", 99.5_КБР (Нальчик)
-#EXTGRP:РАДИО
-http://s0.radioheart.ru:8000/RH42108
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4w8bvp14pow8jyquai3d2/tihiy-don.gif?rlkey=ppvnkbgqqglo2meqmns38wpte&dl=0" tvg-id="fm-na-dony", 92.8_Тихий Дон (Ростов-на-Дону)
 #EXTGRP:РАДИО
@@ -2763,10 +2726,6 @@ http://95.182.123.24:8000/transmit
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k2s23hkx0t5yljoa89bds/p5294.3gorodez.jpg?rlkey=tack1h86w18t4wkdsypufi7kp&dl=0" tvg-id="p5294.3gorodez", 94.3_Р52 Твоё радио (Городец)
 #EXTGRP:РАДИО
 http://5.restream.one/427_1
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pbzbi31l8zrw2qt9gmt4a/etalon102.1lukoyanov.jpg?rlkey=lqis8c7wir98hl71p4blkjvum&dl=0" tvg-id="etalon102.1lukoyanov", 102.1_Эталон (Лукоянов)
-#EXTGRP:РАДИО
-https://drh-node-02.dline-media.com/etalon
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lbkzjcwtt2ptp7ikulv6p/Valdai-fm.jpg?rlkey=6bvn3dlt6xdt5jq8fko8hm2mk&dl=0" tvg-id="Valdai-fm", 100.1_Валдай
 #EXTGRP:РАДИО
@@ -2880,10 +2839,6 @@ http://online.ulskfm.ru:8000/104i2_mp3
 #EXTGRP:РАДИО
 http://s0.radioheart.ru:8000/RH74067
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/s9s839bvtsme2as/guberbia-samara.gif" tvg-id="guberbia-samara", 92.5_Губерния (+1.Самара)
-#EXTGRP:РАДИО
-http://46.20.71.66:8000/fm
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/epq4p57b85dwy7e/samara-maximum.gif" tvg-id="samara-maximum", 104.3_Самара МАКСИМУМ (+1.Самара)
 #EXTGRP:РАДИО
 http://85.236.172.22:8000/maximum
@@ -2904,10 +2859,6 @@ http://listen9.myradio24.com/93191
 #EXTGRP:РАДИО
 http://online.106i9fm.ru:8000/106i9_mp3
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/skourvl25rrkyp0914b7q/aprel.jpg?rlkey=pi2i9oiqepuykxf2gnpauag8l&dl=0" tvg-id="aprel", 100.7_Апрель (+1.Отрадный)
-#EXTGRP:РАДИО
-https://stream.radioapril.ru:8443/live.mp3
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/t6wh0wtb918p9qj/moya_udmurtia.jpg" tvg-id="moya_udmurtia", 100.1_Моя Удмуртия (+1.Ижевск)
 #EXTGRP:РАДИО
 http://radio.myudm.ru:10010/efir
@@ -2915,14 +2866,6 @@ http://radio.myudm.ru:10010/efir
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/razj8sxnkmqvx11kirhua/adam104.5izevsk.jpg?rlkey=dzcz032v22fnl71q25u08oo2u&dl=0" tvg-id="adam104.5izevsk", 104.5_Adam (+1.Ижевск)
 #EXTGRP:РАДИО
 http://radio.izhlife.ru:8443/adam/256
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wag07725uot3sda90zh3r/smorodina.jpg?rlkey=qmeyz7l614npvbtme9z8dnik4&dl=0" tvg-id="smorodina", 106.8_Смородина (+1.Сарапул)
-#EXTGRP:РАДИО
-https://new.vobook.ru/http://188.170.122.238:5901/smorodina18
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rbpmmk741rix5v0ntpgxb/starplus.jpg?rlkey=dop2rx9tywo94dk8synlt88ah&dl=0" tvg-id="starplus", 100.4_StarPlus (+2.Лянтор)
-#EXTGRP:РАДИО
-https://starplus.servemp3.com:8443/stream
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1vplcqth2raayqr9dncz6/oren-fm.jpg?rlkey=8lvbh5koftyt5ul0vhntxsq8b&dl=0" tvg-id="oren-fm", ОренFM (+2.Оренбург)
 #EXTGRP:РАДИО
@@ -3048,10 +2991,6 @@ http://62.16.41.97:8000/online320
 #EXTGRP:РАДИО
 http://solikamskfm.ru:8000/
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kftwhizolyylb57oz6iai/ermak_kungur.jpg?rlkey=9uwhopfn1ez5lm8zwoksdpvgr&dl=0" tvg-id="ermak_kungur", 89.1_Ермак (+2.Кунгур)
-#EXTGRP:РАДИО
-http://strm.yandex.ru/kal/fm_ermak_kungur/fm_ermak_kungur0.m3u8
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/r4yw4v7aq7l4g1v/pervoe_kungurskoe.gif" tvg-id="pervoe_kungurskoe", 100.3_Первое Кунгурское (+2.Кунгур)
 #EXTGRP:РАДИО
 http://1kradio.ru:8000/live
@@ -3070,7 +3009,7 @@ http://listen4.myradio24.com/dixi
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pitu1gx4rq0p4biagwvm9/klassfm.jpg?rlkey=h301ml8xi90yxxo95etu4lo3f&dl=0" tvg-id="klassfm", 89.2_KlassFM (+2.Лысьва)
 #EXTGRP:РАДИО
-http://strm.yandex.ru/kal/fm_klassfm/fm_klassfm0.m3u8
+http://drh-connect.dline-media.com/klassfm
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co1zdknkb36fa87pvbpap/leto98.9ekb.jpg?rlkey=40fdopcv27slm4kgjp1nmhdmo&dl=0" tvg-id="leto98.9ekb", 98.9_Лето (+2 Екатеринбург)
 #EXTGRP:РАДИО
@@ -3108,17 +3047,9 @@ http://stream.vyshka24.ru/192
 #EXTGRP:РАДИО
 http://fpsnew1.listen2myradio.com:2199/listen.php?port=8393&type=s1
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nnjc57bj770qw8cnkiktm/interra.jpg?rlkey=3v6mk9byzhzmesanv2p41byhk&dl=0" tvg-id="interra", 97.5_Интерра (+2.Асбест)
-#EXTGRP:РАДИО
-http://ice.interra.fm:8000/barix
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y2cur0fq3yi87k879ol7m/lira.jpg?rlkey=hn62cgthppp8ln3a134ow8osq&dl=0" tvg-id="lira", 104.3_Лира (+2.Богданович)
 #EXTGRP:РАДИО
 http://listen4.myradio24.com/23737
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/3fwdnes2x9ua8qt/volna-fm.gif" tvg-id="volna-fm", 96.7_Волна (+2.Новоуральск)
-#EXTGRP:РАДИО
-http://radio.volnafm.ru:8000/nov
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/u73okxrjjyxblb3/nvkfm.gif" tvg-id="nvkfm", 105.3_НВК (+2.Новоуральск)
 #EXTGRP:РАДИО
@@ -3136,10 +3067,6 @@ https://drh-node-01.dline-media.com/realfm
 #EXTGRP:РАДИО
 http://94.190.4.232:8000/Master.128
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/lyx2xi0erkdkqi6/ermak.png" tvg-id="gold-fm", 88.4_Ермак-Урал (+2.Кушва)
-#EXTGRP:РАДИО
-https://drh-node-02.dline-media.com/ermak_ural
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/msnt5phphokbzcs07ah7c/lagodat93.8kushva.jpg?rlkey=hoqfx4yaxbyn0xy3roluv3cmz&dl=0" tvg-id="lagodat93.8kushva", 93.8_Благодать (+2.Кушва)
 #EXTGRP:РАДИО
 https://82.146.46.30:8000/blagobarancha?nocache=1763043021786
@@ -3151,10 +3078,6 @@ http://online.ekoradio.ru/stream.mp3
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jis0x6yrgm6kynlk0oyw9/belka.jpg?rlkey=lgz1hjq0592ll3pwmvhqzzni1&dl=0" tvg-id="belka", 96.7_Белка (+2.Заречный)
 #EXTGRP:РАДИО
 http://cast.belka-fm.ru:8000/bel2
-
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ont12jm2xfcy43rkfbayp/u-fm.jpg?rlkey=kcan0o03umzckf89pjg52mb79&dl=0" tvg-id="u-fm", 96.4_UFM-Уральская станция (+2.Алапаевск)
-#EXTGRP:РАДИО
-http://a7.radioheart.ru:8018/RH81253
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ebz0wy2m9pngywrr4cyqi/domashnee.jpg?rlkey=3jsg1gsme3gk1okncw8vzqk4w&dl=0" tvg-id="domashnee", 100.2_Домашнее (+2.Алапаевск)
 #EXTGRP:РАДИО
@@ -3272,10 +3195,6 @@ http://62.152.59.3:8000/kem
 #EXTGRP:РАДИО
 http://drh-connect.dline-media.com/Radio_Prokopyevsk
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ok2svn97p92izkoi164dl/kvant101.8.jpg?rlkey=a7bspwf3kr1z6tvm0fqml1qt0&dl=0" tvg-id="kvant101.8", 101.8_Квант (+4.Междуреченск)
-#EXTGRP:РАДИО
-https://proxy.hypermatic.com/http://radio.rikt.ru:8000/trk-kvant
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bj7c2pjffcfpqwsa45d99/schoria.jpg?rlkey=nnmyf02xjbdahthjucw95ea5u&dl=0" tvg-id="schoria", 107.5_Шория (+4.Таштагол)
 #EXTGRP:РАДИО
 http://193.254.227.55:8000/Shoria192
@@ -3362,7 +3281,7 @@ http://stream.almaz-media.tv/radio
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ivbl0capl3kn9jb/birobidzhan.gif" tvg-id="birobidzhan", 87.7_FM-Биробиджан
 #EXTGRP:РАДИО
-http://31.173.143.103:8000/stream
+http://5.8.213.133:8077/stream
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wrmi25wh9fibzig/fmkhabarovsk.gif" tvg-id="fmkhabarovsk", 101.8_Радио хорошего настроения (+7.Хабаровск)
 #EXTGRP:РАДИО
