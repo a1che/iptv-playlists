@@ -2813,7 +2813,7 @@ http://online.sputnikfm.ru:8000/sputnik_mp3
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ex0ywd4swd9w4h7jopak3/kamyshin.jpg?rlkey=7j9rr2zwf9984x5sptdycr4v8&dl=0" tvg-id="kamyshin", 88.2_Камышин
 #EXTGRP:РАДИО
-http://83.239.140.18:8000/;stream.nsv
+https://online.kamyshinfm.ru:8443/kamyshinfm
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ywyp9spile5gos8eu8554/magas.jpg?rlkey=k5yxfnx11u1ci2i3dgrggir8g&dl=0" tvg-id="magas", 88.0_Магас
 #EXTGRP:РАДИО
@@ -3309,7 +3309,7 @@ https://stream.pari-radio.ru/1dv.mp3
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wm5ah1hv8d0uqfn/prim-volna.png" tvg-id="prim-volna", 100.4_Приморская Волна (+7.Артем)
 #EXTGRP:РАДИО
-http://inhold.org:8000/primvolna-artem
+https://stream.primvolna.ru/primvolna-artem
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/02c9374nbn62wbb/avn-artem.gif" tvg-id="avn-artem", 101.0_AVN (+7.Артем)
 #EXTGRP:РАДИО
