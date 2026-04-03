@@ -2090,6 +2090,10 @@ http://hermitage.hostingradio.ru/hermitage128.mp3
 #EXTGRP:РАДИО
 http://78.140.208.20:8801/rv_spb
 
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v8pf4qbs4dxb4g2gopnwe/mir.png?rlkey=p82fdg5lrzd22osqg61gbm0gp&dl=0" tvg-id="vanya", 93.7_МИР (СПб)
+#EXTGRP:РАДИО
+http://195.128.157.86:8000/Mir_SPb1
+
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l233c161m0gm2qiwiwa1d/NRJ.jpg?rlkey=scp8om38xqcjdnefubhybjc8h&dl=0" tvg-id="NRJ", 95.0_NRJ (СПб)
 #EXTGRP:РАДИО
 http://hls-01-gpm.hostingradio.ru/energyfm812/128/playlist.m3u8
