@@ -2985,7 +2985,7 @@ https://impulsfm.ru/radio20
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/e6tev0blkjsxoq7m9gn48/permjak96.3sol.jpg?rlkey=v9opmhdb7c8toug6rknnw6s6b&dl=0" tvg-id="permjak96.3sol", 96.3_Пермяк (+2.Соликамск)
 #EXTGRP:РАДИО
-http://radiopermyak.ru:8100/online128
+http://radiopermyak.ru:8100/online320
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bot05r8ldhrpuae56i0oy/sol99.1solikam.jpg?rlkey=4xv3k1qyqrcccj2tvmmyq9jc4&dl=0" tvg-id="sol99.1solikam", 99.1_Соль (+2.Соликамск)
 #EXTGRP:РАДИО
@@ -3287,10 +3287,6 @@ http://stream.almaz-media.tv/radio
 #EXTGRP:РАДИО
 http://5.8.213.133:8077/stream
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wrmi25wh9fibzig/fmkhabarovsk.gif" tvg-id="fmkhabarovsk", 101.8_Радио хорошего настроения (+7.Хабаровск)
-#EXTGRP:РАДИО
-http://188.93.129.110:8000/fm1018
-
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/d3wpcx881l1kzgg/mix-fm-102-7.gif" tvg-id="mix-fm-102-7", 102.7_MIX (+7.Хабаровск)
 #EXTGRP:РАДИО
 http://radio.gubernia.com:8000/radio3
@@ -3311,7 +3307,7 @@ https://stream.pari-radio.ru/vfm
 #EXTGRP:РАДИО
 https://stream.pari-radio.ru/1dv.mp3
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wm5ah1hv8d0uqfn/prim-volna.png" tvg-id="prim-volna", 100.4_Приморская Волна (+7.Артем)
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/l7ffyoo8i3bmeipqtp4yb/prim-volna.jpg?rlkey=myh2aw2yopswtt3s4ttkkbd9s&dl=0" tvg-id="prim-volna", 100.4_Приморская Волна (+7.Артем)
 #EXTGRP:РАДИО
 https://stream.primvolna.ru/primvolna-artem
 
@@ -3327,11 +3323,11 @@ http://aska.ru-hoster.com:8024/25Region_live
 #EXTGRP:РАДИО
 https://stream.astv.ru/stream.mp3
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/ci6wxucbglzjsvi/karibu-art.gif" tvg-id="karibu-art", 104.2_Карибу-Арт (+8.Магадан)
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bs5ep21cbxx96kj63h3iu/karibu-art.jpg?rlkey=795x37zozb5lsy1i5pg6fzo0w&dl=0" tvg-id="karibu-art", 104.2_Карибу-Арт (+8.Магадан)
 #EXTGRP:РАДИО
 http://online.karibu.ru:80/Karibu-Art
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/kw1998mf8q83qip/kolima.png" tvg-id="kolima", 107.5_Колыма (+8.Магадан)
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/alv7sijvfsxverihjyaln/kolima.jpg?rlkey=okqp0wxti4n33ijq1inkf80yt&dl=0" tvg-id="kolima", 107.5_Колыма (+8.Магадан)
 #EXTGRP:РАДИО
 http://icecast-kolymaplus.cdnvideo.ru/kolyma
 
